@@ -1,0 +1,590 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>We have Helicopter View</title>
+        <!-- Meta -->
+        <meta name="description" content="There is no doubt that Europe continues to be a key destination for Foreign Direct Investment (FDI) And there is no doubt that competition for prime assets and the best investment opportunities is likely to intensify due to globalization and the wealth being created in emerging economies.
+At the moment investments in Western European countries represent great value for money.">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/public/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/public/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/public/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/public/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/public/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/public/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/public/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/public/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/public/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/public/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/public/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/public/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/public/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/public/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="blog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="title-inside-page anim-start">
+                <h1>
+                    <span>blog<i>.</i></span>
+                </h1>
+            </div>
+            <div class="blog-content-ip">
+                <div class="posts-blog-ip">
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/paul-newman-s-daytona-rolex-sells-for-a-record-17-8-million" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1509098804.jpg" alt="Paul Newman&rsquo;s Daytona Rolex Sells for a Record $17.8 Million">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>27 Oct, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/paul-newman-s-daytona-rolex-sells-for-a-record-17-8-million" title="Read the blog">Paul Newman&rsquo;s Daytona Rolex Sells for a Record $17.8 Million</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>A Rolex that once belonged to Paul Newman became the most expensive wristwatch ever sold in an auction as it fetched $17.8 million Thursday night in New York....</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/paul-newman-s-daytona-rolex-sells-for-a-record-17-8-million" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/key-forces-shaping-the-luxury-market" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1511100794.jpg" alt="Key Forces Shaping the Luxury Market">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>19 Nov, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/key-forces-shaping-the-luxury-market" title="Read the blog">Key Forces Shaping the Luxury Market</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>In last year&rsquo;s we looked at ‘luxury&#039;s new normal&#039;, mid-way through ‘the decade of change&#039;, and we discussed the opportunities created by changing consumer behaviors, the blurring of channels to market...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/key-forces-shaping-the-luxury-market" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/world-of-luxury" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1511101612.jpg" alt="World of Luxury">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>19 Nov, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/world-of-luxury" title="Read the blog">World of Luxury</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>​The economic environment for luxury brands continues to be challenging, with slow growth in major developed economies, high levels of debt in emerging markets, deflation or low inflation in rich countries...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/world-of-luxury" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/baselworld-cuts-number-of-exhibitors-by-half" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1511280868.jpg" alt="BaselWorld Cuts Number of Exhibitors by Half">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>21 Nov, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/baselworld-cuts-number-of-exhibitors-by-half" title="Read the blog">BaselWorld Cuts Number of Exhibitors by Half</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>Show organizers just announced that the 2018 edition of the Baselworld Watch &amp; Jewellery Show will have between 600 and 700 exhibitors, down from 1,300 this year....</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/baselworld-cuts-number-of-exhibitors-by-half" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/the-best-gem-and-jewelry-trade-shows" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1512135364.jpg" alt="The Best Gem and Jewelry Trade Shows">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>01 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/the-best-gem-and-jewelry-trade-shows" title="Read the blog">The Best Gem and Jewelry Trade Shows</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>This list of gem and jewelry events is nowhere near comprehensive and only represents a fraction of the top jewelry fairs held around the world, but of cause there are many other important industry events held...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/the-best-gem-and-jewelry-trade-shows" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/biggest-international-boat-yacht-shows" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1512141542.jpg" alt="Biggest International Boat &amp; Yacht Shows">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>01 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/biggest-international-boat-yacht-shows" title="Read the blog">Biggest International Boat &amp; Yacht Shows</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>London Boat Show (London, UK, 10−14 January) will be packed with global, national and boutique brands, first looks, loads of retailers and even unique opportunities to get on the water indoors....</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/biggest-international-boat-yacht-shows" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/top-bridal-fashion-shows" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1512822936.jpg" alt="Top Bridal Fashion Shows">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>07 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/top-bridal-fashion-shows" title="Read the blog">Top Bridal Fashion Shows</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>Take a look at our selection of Bridal Fashion Shows Worldwide over the next six months. We hope you might find something interesting for you....</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/top-bridal-fashion-shows" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/a-calendar-of-italian-fashion-weeks-events-and-trade-fairs" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1512821070.jpg" alt="A Calendar of Italian Fashion Weeks, Events and Trade Fairs">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>09 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/a-calendar-of-italian-fashion-weeks-events-and-trade-fairs" title="Read the blog">A Calendar of Italian Fashion Weeks, Events and Trade Fairs</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>Italy hosts a startling number of fashion related shows, events and trade fairs. A lively competition between Milan, Florence and Rome seems to stretch the biannual ritual of fashion week to last almost...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/a-calendar-of-italian-fashion-weeks-events-and-trade-fairs" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/a-calendar-of-fashion-weeks-events-and-trade-fairs-in-germany" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1512824144.jpg" alt="A Calendar of Fashion Weeks, Events and Trade Fairs in Germany">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>09 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/a-calendar-of-fashion-weeks-events-and-trade-fairs-in-germany" title="Read the blog">A Calendar of Fashion Weeks, Events and Trade Fairs in Germany</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>Germany is a leading country in the fashion industry, along with France, Italy, the United States, the&nbsp;UK and Japan. German fashion is known for its elegant lines, unconventional young designs, and manufacturer...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/a-calendar-of-fashion-weeks-events-and-trade-fairs-in-germany" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/the-key-fashion-events-in-spain" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1512826094.jpg" alt="The Key Fashion Events in Spain">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>09 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/the-key-fashion-events-in-spain" title="Read the blog">The Key Fashion Events in Spain</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>The history of Spanish fashion is strewn with great names, all of whom have contributed to Spain&rsquo;s role as a venue for international fashion shows featuring quality creations of the highest quality and...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/the-key-fashion-events-in-spain" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/2018-fashion-calendar-in-uk" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1512833815.jpg" alt="2018 Fashion Calendar in&nbsp;UK">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>09 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/2018-fashion-calendar-in-uk" title="Read the blog">2018 Fashion Calendar in&nbsp;UK</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>For decades, UK has been known for supporting designers not only British talent, but has become a platform for international labels. Official runway shows, showroom space, exhibitions and trade shows are just...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/2018-fashion-calendar-in-uk" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/nearest-fashion-shows-in-paris" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1512922007.jpg" alt="Nearest Fashion Shows in Paris">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>10 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/nearest-fashion-shows-in-paris" title="Read the blog">Nearest Fashion Shows in Paris</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>Paris is regarded as the world fashion capital, and spread throughout the city are many fashion boutiques. Most of the major French fashion brands, such as Chanel, Louis Vuitton, Dior, and Lacroix...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/nearest-fashion-shows-in-paris" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="one-post-blog-ip anim-elem">
+                            <div class="centred-blog-content-ip">
+                                <a href="http://helicopter-view.com/public/blog/nearest-fashion-shows-in-usa-save-the-date" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                    <img src="/upload/images/preview_1513010176.jpg" alt="Nearest Fashion Shows in USA. Save the Date!">
+                                    <div class="inner-image-one-post-ss"></div>
+                                </a>
+                                <div class="info-one-post-blog">
+                                    <div class="inner-one-post-blog date-one-post-blog">
+                                        <p>11 Dec, 2017</p>
+                                    </div>
+                                    <div class="inner-one-post-blog title-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/nearest-fashion-shows-in-usa-save-the-date" title="Read the blog">Nearest Fashion Shows in USA. Save the Date!</a>
+                                    </div>
+                                    <div class="inner-one-post-blog desc-one-post-blog">
+                                        <p>The United States is one of the leading countries in the fashion design industry, along with France, Italy, the United Kingdom, Germany and Japan. Apart from professional business attire, American fashion is...</p>
+                                    </div>
+                                    <div class="inner-one-post-blog link-to-one-post-blog">
+                                        <a href="http://helicopter-view.com/public/blog/nearest-fashion-shows-in-usa-save-the-date" title="Read the blog" class="link-screen">
+                                            <div class="inner-read-more">
+                                                <span>read more</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <span class="circle-gray-blog anim-elem"></span>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

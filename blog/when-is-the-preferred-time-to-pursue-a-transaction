@@ -1,0 +1,381 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>When Is the Preferred Time to Pursue a Transaction?</title>
+        <!-- Meta -->
+        <meta name="description" content="Owners of mid-market companies face numerous issues and challenges leading up to and during the sale process. One big question: When is the preferred time to pursue a transaction? Oftentimes, the decision involves three considerations: company-specific variables, existing market conditions, and synergy opportunities with potentially interested parties.">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>29 Sep, 2017</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>When Is the Preferred Time to Pursue a Transaction?</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1506688431.jpg" alt="When Is the Preferred Time to Pursue a Transaction?">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <ul><li>Know exactly what you&rsquo;re selling and how you plan on carrying out your strategy, operationally and financially.</li><li>Devise the appropriate process in connection with sales objectives and market dynamics.</li><li>Minimize re-trade and improve closing probability, since vendor due diligence can speed up the sales process.</li><li>Understand the buyer&rsquo;s value drivers for the deal. Attempt to quantify the potential cost and revenue synergies for the buyer, and position the asset you are selling accordingly.</li></ul>
+<p>Owners of mid-market companies face numerous issues and challenges leading up to and during the sale process. One big question: When is the preferred time to pursue a transaction? Oftentimes, the decision involves three considerations: company-specific variables, existing market conditions, and synergy opportunities with potentially interested parties.<br></p>
+<p>Starting and growing a business is tough; exiting it can be even tougher. An owner of a private, mid-market company who is contemplating its sale should execute the process with forethought and precision; the owner should sell for the right reason, have an understanding of value, and be prepared to address a host of financial, operational, technology, and human resource issues during the transaction. The process can be daunting, especially because achieving goals in running a company&nbsp;&mdash; whether it is a longtime family business or an up-and-coming entrepreneurial firm&nbsp;&mdash; doesn&rsquo;t necessarily translate into achieving those goals when selling it. </p>
+<p><strong>Company-specific variables </strong>
+ </p>
+<p>Many owners of entrepreneurial firms typically are good at starting businesses but may not be as adept at handling the myriad challenges typically encountered throughout a&nbsp;&laquo;normal&raquo; company lifecycle. At a certain point in the company&rsquo;s growth, an owner may realize: &laquo;I'm great at marketing but need additional human and financial capital to take this business to the next level.&raquo; Another trigger might arise from a life event or from a desire to pursue other interests. Alternatively, a second-generation owner may feel that their passion for the business is waning or that their children aren&rsquo;t interested in or capable of taking over the business. </p>
+<p><strong>Existing market conditions </strong>
+ </p>
+<p>Many people think their baby is the most beautiful in the world; however, pride of ownership can make it difficult for owners to determine the appropriate price for their company. An entrepreneur who has devoted years to building a business or an owner who considers a family company to be their legacy may find it difficult to take an objective view of the company, resulting in an inflated perception of value, and become frustrated in their attempts to consummate a transaction. Conversely, if an owner is looking for a quick exit and suggests a willingness to accept a price that is below the market&rsquo;s perception of value, the owner not only risks forfeiting the financial rewards to which they are entitled but also invites potential buyers to negotiate the price down even further. </p>
+<p>It also can be challenging for owners to identify the &laquo;windows of opportunity&raquo; in which to sell the business at the desired price. Important questions to ask include: Is the overall market for selling companies favorable? Will my company&rsquo;s recent performance garner an attractive price? Am I emotionally ready and financially prepared to exit my company? While conditions rarely align perfectly, the answers to these questions should be acceptable or the owner/entrepreneur may be better served to delay the possible transaction. </p>
+<p>Fortunately for sellers, recent mid-market deal activity has been quite favorable, and while ample capital is available and conditions are favorable, many of today&rsquo;s buyers are more disciplined than they were five years ago and will be fairly rigorous with respect to acquisition prices. They may be willing to pay for quality assets, but a company seeking to be purchased needs to demonstrate that it has, among other characteristics, a defensible position, a proprietary product, and positive client relationships, in order to attract the most favorable valuation. Not all cash flow is created equal; current owners should demonstrate that when their company is in the hands of someone else, the new owners should be able to not only maintain but, in fact, significantly expand upon its historical achievement. </p>
+<p><strong>Synergy opportunities </strong>
+ </p>
+<p>Standalone mid-market companies may offer considerable synergy opportunities for potential purchasers; among them, access to new products, technologies, customer segments or geographic markets, accelerated time to market, and increased management depth and experience. It is important that the seller promote any potential synergies early in the sales cycle to increase market interest and improve valuation. Also, when a mid-market business is an important contributor (vendor, service provider) to a larger company, it may be easier for the mid-market owner to leverage that relationship and be acquired by the larger company. However, it is likely that the owner will need external assistance to determine if the entity is worth more as part of a bigger company or as a standalone, and when the time is right to approach potential buyers. </p>
+<p><strong>Sales transaction challenges </strong>
+ </p>
+<p>Once a business owner has decided to sell, navigating the transaction process can bring numerous other challenges. Among them: identifying and vetting interested buyers. There may be a lot of pretty candidates, but only a few really good matches. For example, is a strategic competitor or a&nbsp;PE firm a more practical option? What about a foreign versus domestic buyer? Also, how can the seller confirm bidders' credit-worthiness, their access to capital, and governance practices? </p>
+<p>The next hurdle is the sale itself. If a business owner wishes to manage price, can a high price be achieved through a one-to-one negotiation? Or, must the owner pursue a broad auction process and risk possible confidentiality leaks and/or the reputational risk of having a wide sale process that ultimately may not be consummated? Either option can become a complex, nerve-wracking game between seller and bidder that weighs the optimism of the owner against marketplace realities: Buyers want to get a deal done at the lowest-possible price, while sellers are looking to leverage their after-tax proceeds from the transaction. </p>
+<p><strong>Understanding deal dynamics </strong>
+ </p>
+<p>Not only is preparation critical to the M&A process, but it&rsquo;s also important to understand what drives the strategy behind a process, and the objectives of the parties involved. Ultimately, one company&rsquo;s acquisition process is another company&rsquo;s divestiture process. The essential issue is which party can dictate the process? </p>
+<p>Ultimately, the answer depends on two central elements:
+ </p>
+<ul><li>How attractive is the seller&rsquo;s company to the market; and</li><li>Which party, buyer or seller, has a greater compulsion to transact.</li></ul>
+<p>The strategy behind the design of any process is to maximize negotiation power. As a seller, you will want to structure the process to maximize your leverage throughout, while the buyer will continually attempt to tip the balance of leverage during the transaction in their favor. As a result, it becomes an antagonistic interplay between the buyer and seller, pitting motivations against each other. It is precisely in this context that give rise to key commercial issues and tactics we often see in the M&A world, including but not limited to: </p>
+<ul><li>Competitive Tension&nbsp;&mdash; For a seller, competitive tension is the purest way to keep buyers honest, which in turn translates into better terms and conditions for the deal. Therefore, most processes are designed to ensure that the seller has as many of the right bidders at the table for as long as possible as this is the surest way to maximize value.</li><li>Exclusivity&nbsp;&mdash; For the buyer, it is crucial to eliminate other bidders from the table as soon as possible and make the seller &laquo;stand still&raquo;. The moment the buyer locks down a seller through an exclusivity agreement, negotiation leverage immediately transfers from the seller, to the buyer. Once exclusive, the buyer can commit resources to validate valuation and deal thesis.</li><li>Disclosure Paradox&nbsp;&mdash; Despite having signed non-disclosure agreements, a seller of a private company is often reticent with disclosing confidential information, particularly with commercially sensitive information to a potential competitor given that there is always a risk that the deal may not be completed. Yet, greater disclosure of information by the seller produces more educated offers from the buyers, offers that accurately reflects an understanding of both the risks and the upsides of the business. As a result, the more &laquo;well-informed&raquo; the offers are, the lower the risk of re-trading by the buyer as the process moves along. It is exactly within this paradox of the risk versus the benefit of disclosure that we see phasing of M&A processes, where levels of disclosure are tiered to match the commitment and momentum demonstrated by the buyers.</li><li>Allocation of Risk&nbsp;&mdash; M&A negotiation, in its purest form, is simply the identification and subsequent allocation of risk between the buyer and seller. Rarely is anything ever certain, and if one side has to accept greater risks, then accommodations in price and terms are expected. This allocation of risk dynamics starts from the negotiations of the non-disclosure agreement, to the letter of intent, and finally through to the purchase and sale agreement when parties argue over representations and warranties, baskets and escrows for indemnifications, and survival periods, to name a few. In the final analysis, there are many factors that impact negotiations and the strategy in behind any M&A process, with both parties continually playing a balancing act between risk and value. Understanding the levers of deal dynamics will allow you to maximize leverage in any sales transaction.</li></ul>
+<p>Even when a deal has been reached, the transaction is far from complete: the current and new owners have much to accomplish in the period between signing and closing, including developing an employee retention program, reconciling disparate compensation strategies, and creating and implementing an effective employee communications plan. For some, the process can seem never-ending. </p>
+<p><strong>Preparation can drive value </strong>
+ </p>
+<p>The goal when selling a business is often to capture the highest value possible. While a number of factors drive deal valuation&nbsp;&mdash; company prospects, competitive landscape, economic conditions, deal structure and tax considerations, among them&nbsp;&mdash; well-prepared sellers are generally better positioned to meet the challenges posed by potential buyers during the process. Among leading practices that can help a seller prepare for and execute a transaction that achieves their goals for deal value are the following: </p>
+<p>Accurately value the company&nbsp;&mdash; Remember that the true worth of a business is the current and potential income it will generate for the new owner. To manage the risk of overvaluation, company owners should work with a M&A advisor with experience valuing businesses in their sector, provide the advisor with all the necessary financial information to facilitate the valuation process. </p>
+<p>Enlist seller services support&nbsp;&mdash; In collaboration with the legal and financial advisors, M&A seller services professionals can provide a broad spectrum of customized services and solutions to help mid-market company owners </p>
+<p><strong>Typical services include: </strong>
+ </p>
+<p>Deal planning and preparation: Define what will and will not be included in the transaction; identify potential tax, accounting, labor, operational and system issues before going to market; determine whether the transaction structure is in line with company strategy; quantify the strategic value of risks and opportunities; address issues associated with the Confidential Information Memorandum, including the appropriateness and comparability of financial information presented. </p>
+<p>Due diligence/seller diligence: Identify financial and regulatory matters; examine compensation-related agreements; assess the quality of the information that will be made available to potential bidders; preparation of a Seller Diligence Report (see sidebar article), when applicable. </p>
+<p>Deal structure: Assess alternatives and structure the deal to meet seller&rsquo;s financial objectives; estimate gains; analyze the allocation and preservation of tax attributes; identify potential perceived risks of prior tax positions. </p>
+<p>Transaction execution: Identify deal issues and develop negotiating positions; assess proposed purchase price adjustments and earn-outs; comment on representations and warranties to be included in the purchase agreement; develop a workable purchase price mechanism to reduce the potential for disputes over judgmental accounting areas and resolve tax and accounting issues. </p>
+<p>Transaction closing and post-closing support: Apply accounting principles and prepare historical financial statements; after deal has closed, help calculate the gain on the sale and assist in determining purchase price adjustments; assist in drafting transition service agreements and preparing the divested business for day-one readiness, including cutover of&nbsp;IT systems and the establishment of&nbsp;HR and financial functions </p>
+<p>While the strategic advantages and core competencies of the business do not change depending on the potentially interested buyer, how that third-party might utilize the seller&rsquo;s specific attributes and thereby manage value within the acquiring company can change from buyer to buyer and can evolve over time. To this end, having intimate familiarity with the strategic visions of potential buyers and knowing how to position the selling company such that the opportunity hits home with the C-suite of possible buyers can be a main determinant in achieving the seller&rsquo;s objectives. A financial advisor with deep sector experience and a track record of achievement may generate the type of buzz within an organization that yields the highest price. </p>
+<p><strong>Conclusion </strong>
+ </p>
+<p>A confluence of market events that include a pent-up supply of corporate cash and uninvested private equity capital, and favorable financing conditions are providing a window of opportunity for mid-market company owners who are seeking to sell their business. Yet optimism should be tempered by realism when determining company value, and owners should consider turning to financial, legal, and M&A professionals for solutions to help them navigate the transaction, manage sales price, and enjoy the fruits of their labors. 
+ </p>
+<p>Read also <a href="http://helicopter-view.com/process" target="_blank">acquisition process</a>, <a href="http://helicopter-view.com/public/blog/dd-check-list1">DD Check List</a> and <a href="http://helicopter-view.com/public/faq" target="_blank">F.A.Q.</a></p>
+<p><br></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/blog/tag/tips" title="Tips">Tips</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/m-a" title="M&amp;A">M&amp;A</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

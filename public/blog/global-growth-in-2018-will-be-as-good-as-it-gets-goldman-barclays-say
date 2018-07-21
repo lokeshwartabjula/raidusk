@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>Global Growth in 2018 Will Be &quot;As Good As It Gets&quot;, Goldman, Barclays Say</title>
+        <!-- Meta -->
+        <meta name="description" content="​Outlooks for next year from Goldman Sachs Group​ Inc. (GS, -0.61%)​ and Barclays Plc (BCS, -0.32%)​ predict global growth will reach 4%, with G7 economies expected to beat projections for the first time since 2010. One economist deemed that optimistic forecast “as good as it gets.”">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/public/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/public/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/public/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/public/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/public/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/public/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/public/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/public/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/public/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/public/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/public/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/public/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/public/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/public/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>01 Jan, 2018</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>Global Growth in 2018 Will Be &laquo;As Good As It Gets&raquo;, Goldman, Barclays Say</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1514816251.jpg" alt="Global Growth in 2018 Will Be &laquo;As Good As It Gets&raquo;, Goldman, Barclays Say">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <p>Outlooks for next year from <a href="http://fortune.com/fortune500/goldman-sachs-group/" target="_blank">Goldman Sachs Group</a> Inc. (GS, -0.61%) and Barclays Plc (BCS, -0.32%) predict global growth will reach 4%, with G7 economies expected to beat projections for the first time since 2010. One economist deemed that optimistic forecast &laquo;as good as it gets.&raquo;</p>
+<p>A global growth rate of 4% next year would be the strongest since 2011, and an increase from the 3.7% Goldman Sachs estimated for this year, reports <a href="https://www.bloomberg.com/news/articles/2017-11-28/goldman-barclays-see-as-good-as-it-gets-global-growth-of-4" target="_blank" rel="noopener noreferrer"><em>Bloomberg</em></a>. Most major economies are even running ahead of pre-financial crisis averages, said economist Jan Hatzius in Goldman&rsquo;s <a href="http://www.goldmansachs.com/our-thinking/pages/2018-global-economic-outlook-as-good-as-it-gets.html" target="_blank" rel="noopener noreferrer">November Economic Outlook report</a>. The Goldman report says the projected GDP growth for next year is&nbsp;&laquo;notably above consensus expectations and supported by still-easy financial conditions and fiscal policy.&raquo;</p>
+<p><a href="https://www.barclayscorporate.com/insight-and-research/the-economy/economicoutlook.html" target="_blank" rel="noopener noreferrer">In a separate November report</a>, Barclays economists Ajay Rajadhyaksha and Michael Gavin wrote that &laquo;the ongoing economic expansion has substantial momentum.''</p>
+<p>&laquo;It is not overly reliant on any single geographical region, industry, or source of demand," they said. &laquo;It does not seem to have generated economic or financial excesses that pose an immediate threat.''</p>
+<p>Taking a more moderate view, Morgan Stanley&rsquo;s (MS, -0.32%) <a href="https://login.matrix.ms.com/public/login-email/webapp/entry?uri=/eqr/article/webapp/58a07f06-b3f3-11e7-9c39-637f7932b85b&query=t%3d1511720393%253A39%253A18841%253Avmias1106668%26m%3d1%26ch%3dCDF%2520Research%2520ISG&failedauth=login&denymsg=No%20such%20user&method=GET&msuniqueid=AWxxsv702iJePbHVijd#e=am92YW5hLmxhbGljQG1vcmdhbnN0YW5sZXkuY29t" target="_blank" rel="noopener noreferrer">2018 Global Macro Outlook report</a> predicts the year ahead will be one of global recovery, supported by unmoving &laquo;accommodative monetary policy and more fiscal stimulus.&raquo;</p>
+<p>Morgan Stanley&rsquo;s report forecasts steady growth in developed markets that will be eclipsed by emerging markets; inflation rates in the latter markets will match those in emerging economies, led by Asia. Monetary policy is set to remain expansionary in 2018, Morgan Stanley says, as is fiscal policy in several key developed market economies, including the U. S. Risks related to estimating the shortfall of faster inflation, tightening finances owing to rich asset valuations, and a disruption in global trade which could lead to protectionism.</p>
+<p>Despite growth, few economists anticipate any surges in inflation, with most forecasting a gradual acceleration that central bankers should welcome.</p>
+<p>We would like to suggest you the article &laquo;Company Valuation Methods&raquo; <a href="http://helicopter-view.com/blog/company-valuation-methods-part-1" target="_blank">(Part 1)</a>, <a href="http://helicopter-view.com/blog/company-valuation-methods-balance-sheet-based-methods-shareholders-equity-part-2" target="_blank">(Part 2)</a>, <a href="http://helicopter-view.com/blog/company-valuation-methods-income-statement-based-methods-part-3" target="_blank">(Part 3)</a>, <a href="http://helicopter-view.com/blog/company-valuation-methods-goodwill-based-methods-part-4" target="_blank">(Part 4)</a>, <a href="http://helicopter-view.com/blog/company-valuation-methods-cash-flow-discounting-based-methods-part-5" target="_blank">(Part 5)</a>, <a href="http://helicopter-view.com/blog/company-valuation-methods-basic-stages-of-a-valuation-by-cash-flow-discounting-part-6" target="_blank">(Part 6)</a>, <a href="http://helicopter-view.com/blog/company-valuation-methods-which-is-the-best-method-to-use-part-7" target="_blank">(Part 7)</a></p>
+<p>Read also: <a href="http://helicopter-view.com/public/blog/dd-check-list1" target="_blank">DD Check List</a>, <a href="http://helicopter-view.com/public/blog/mandate-f-a-q">Mandate F. A. Q.</a></p><p><br></p><p><br></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/forecasts" title="Forecasts">Forecasts</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/world" title="World">World</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/2018" title="2018">2018</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

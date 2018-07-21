@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>Nearest Fashion Shows in Paris</title>
+        <!-- Meta -->
+        <meta name="description" content="Paris is regarded as the world fashion capital, and spread throughout the city are many fashion boutiques. Most of the major French fashion brands, such as Chanel, Louis Vuitton, Dior, and Lacroix, are currently headquartered here. Numerous international fashion labels also operate shops in Paris, such as Valentino, Gucci, Loewe, Escada, Bottega Veneta, and Burberry. Paris hosts a fashion week twice a year, similar to other international centers such as Milan, London, Tokyo, New York">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/public/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/public/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/public/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/public/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/public/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/public/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/public/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/public/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/public/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/public/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/public/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/public/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/public/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/public/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>10 Dec, 2017</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>Nearest Fashion Shows in Paris</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1512922007.jpg" alt="Nearest Fashion Shows in Paris">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <p>Paris<span class="apple-converted-space"> </span>is regarded as the world fashion capital, and spread throughout the city are many fashion boutiques. Most of the major French fashion brands, such as<span class="apple-converted-space"> </span><a href="http://www.chanel.com/en_US/" title="Chanel">Chanel</a>,<span class="apple-converted-space"> </span><a href="http://www.louisvuitton.com/" title="Louis Vuitton">Louis Vuitton</a>,<span class="apple-converted-space"> </span><a href="https://www.dior.com/home/en_int" title="Dior">Dior</a>, and<span class="apple-converted-space"> </span><a href="https://christian-lacroix.com/fr/" title="Christian Lacroix">Lacroix</a>, are currently headquartered here. Numerous international fashion labels also operate shops in Paris, such as<span class="apple-converted-space"> </span><a href="https://www.valentino.com/es" title="Valentino Garavani">Valentino</a>,<span class="apple-converted-space"> </span><a href="https://www.gucci.com/int/en/" title="Gucci">Gucci</a>,<span class="apple-converted-space"> </span><a href="http://www.loewe.com/eur/en/home" title="Loewe, S.A.">Loewe</a>,<span class="apple-converted-space"> </span><a href="http://escada.com/" title="Escada">Escada</a>,<span class="apple-converted-space"> </span><a href="https://www.bottegaveneta.com/en" title="Bottega Veneta">Bottega Veneta</a>, and<span class="apple-converted-space"> </span><a href="http://burberry.com/" title="Burberry">Burberry</a>. Paris hosts a fashion week twice a year, similar to other international centers such as<span class="apple-converted-space"> </span>Milan, London, Tokyo, New York, Los Angeles and Rome.
+ </p>
+<p><strong><a href="https://premiere-classe.com/en" target="_blank">PREMIERE CLASSE</a></strong> <strong>(Paris, France, 19−22 </strong><strong>January</strong><strong>/ 1−4 March)</strong> showcases 900 brands and designers in high-end jewelry, footwear, leather goods and many accessory. PREMIERE CLASSE features at two main events during Paris Market Weeks in January and September alongside the WHO&rsquo;S NEXT trade show at the Porte de Versailles, and during the Paris Fashion Weeks Tuileries trade shows in March and October.
+ </p>
+<p><strong><a href="https://www.whosnext-tradeshow.com/about/" target="_blank">WHO&rsquo;S NEXT</a> (Paris, France, 19−22 January)</strong> has become the leading international fashion trade show for womenswear in Europe. In January and September, the event welcomes 50000 visitors through its doors at the Porte de Versailles Exhibition Centre in Paris, with around 700 French and international ready-to-wear brands there for them to discover.</p>
+<p><strong><a href="https://www.tranoi.com" target="_blank">TRANOÏ</a> Men&rsquo;s & Women&rsquo;s </strong><strong>(Paris, France, 19−22 January/ 2−5 March)</strong> is occurring four times a year during each Fashion Week in Paris, it is a leading fashion trade show that attracts more than 30000 visitors from all over the world each year. Over 600 exhibitors from every continent present their creations in key segments of the fashion industry: ready-to-wear, jewellery, footwear and accessories
+ </p>
+<p><strong><a href="http://manwomanshows.com/shows/woman-paris" target="_blank">MAN / WOMAN</a></strong> <strong>(Paris, France, 19−21 January (man)/ 2−4 March (woman)) </strong>have developed and built a trusted platform between brands, buyers and retailers, solidifying bridges between the three different markets.
+ </p>
+<p><strong><a href="https://www.bijorhca.com/en/Home/" target="_blank">BIJORHCA PARIS</a></strong> <strong>(Paris, France, 19−22 January) </strong>is an international trade fair for jewelry and watches, which takes place twice a year in January and September in Paris. It hosts nearly 14000 buyers and 450 exhibitors in Paris who come to discover the latest collections and spot new trends.
+ </p>
+<p><strong><a href="https://www.parissurmode.com/en/" target="_blank">Paris sur Mode</a> (Paris, France, 1−4 March) </strong>is showcase for brands and designers of women&rsquo;s ready-to-wear their collections during Paris Fashion Weeks, only a few steps away from the accessories trade show Premiere Classe Tuileries. Paris sur Mode Tuileries welcomes several well-known French labels, but also international lines.
+ </p>
+<p><strong><a href="http://www.vendomeluxury-paris.com/our-designers" target="_blank">Vendôme Luxury</a></strong> <strong>(Paris, France, 2−5 March) </strong>is a premium fashion tradeshow for luxury and high-end women&rsquo;s collections taking place during Paris Fashion Week (March and September each year). The show is divided into three parts: cutting edge designers with womenswear; high end accessories, with bags shoes and scarves, and&nbsp;VL collection with jewelry
+ </p><p>Other fashion events: <a href="http://helicopter-view.com/blog/top-bridal-fashion-shows" target="_blank">Top Bridal Fashion Shows</a>, <a href="http://helicopter-view.com/blog/top-specialized-lingerie-trade-shows" target="_blank">Top Specialized Lingerie Trade Shows</a>, <a href="http://helicopter-view.com/blog/a-calendar-of-italian-fashion-weeks-events-and-trade-fairs" target="_blank">A Calendar of Italian Fashion Weeks, Events and Trade Fairs</a>, <a href="http://helicopter-view.com/blog/2018-fashion-calendar-in-nbsp-uk" target="_blank">2018 Fashion Calendar in UK</a>, <a href="http://helicopter-view.com/blog/the-key-fashion-events-in-spain" target="_blank">The Key Fashion Events in Spain</a>, <a href="http://helicopter-view.com/blog/a-calendar-of-fashion-weeks-events-and-trade-fairs-in-germany" target="_blank">A Calendar of Fashion Weeks, Events and Trade Fairs in Germany</a>, <a href="http://helicopter-view.com/blog/nearest-fashion-shows-in-paris" target="_blank">Nearest Fashion Shows in Paris</a></p>
+<p>More information about other 2018 trade fairs: <a href="http://helicopter-view.com/blog/top-drink-beverage-trade-shows-around-the-world" target="_blank">Top Drink & Beverage Trade Shows around the World</a>, <a href="http://helicopter-view.com/blog/top-international-footwear-trade-shows">Top International Footwear Trade Shows</a>, <a href="http://helicopter-view.com/blog/top-international-children-and-maternity-trade-shows" target="_blank">Top International Children and Maternity Trade Shows</a>, <a href="http://helicopter-view.com/blog/the-best-gem-and-jewelry-trade-shows" target="_blank">The Best Gem and Jewelry Trade Shows</a>, <a href="http://helicopter-view.com/blog/biggest-international-boat-yacht-shows" target="_blank">Biggest International Boat & Yacht Shows</a>, <a href="http://helicopter-view.com/blog/must-visit-in-2018-international-cosmetic-shows" target="_blank">Must-Visit in 2018 International Cosmetic Shows</a>, <a href="http://helicopter-view.com/blog/top-international-golf-trade-shows" target="_blank">Top International Golf Trade Shows</a>, <a href="http://helicopter-view.com/blog/top-international-sport-and-wellness-trade-shows-to-attend-in-2018" target="_blank">Top International Sport and Wellness Trade Shows to Attend in 2018</a></p>
+<p>Read more about luxury: <a href="http://helicopter-view.com/public/blog/luxury-goods-worldwide-market-trends">Luxury Goods Worldwide Market Trends</a>, <a href="http://helicopter-view.com/blog/world-of-luxury">World of Luxury</a>, <a href="http://helicopter-view.com/blog/key-forces-shaping-the-luxury-market">Key Forces Shaping the Luxury Market</a></p>
+<p><br></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/tips" title="Tips">Tips</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/europe" title="Europe">Europe</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/apparel" title="Apparel">Apparel</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/luxury" title="Luxury">Luxury</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/exhibition" title="Exhibition">Exhibition</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

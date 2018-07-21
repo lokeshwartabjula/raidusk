@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>M&amp;A Advisory service</title>
+        <!-- Meta -->
+        <meta name="description" content="Our service includes strategy development for an acquisition, investment memorandum, market research, identification of opportunities, valuation, negotiations, advising, due diligence, negotiating, PR, post acquisition support">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/public/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Service" href="http://helicopter-view.com/public/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/public/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/public/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/public/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Blog" href="http://helicopter-view.com/public/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/public/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/public/about">about us.</a>
+                </li>
+                <li class="active">
+                    <a title="Service" href="http://helicopter-view.com/public/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/public/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/public/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/public/faq">faq.</a>
+                </li>
+                <li class="">
+                    <a title="Blog" href="http://helicopter-view.com/public/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/public/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                    <div id="service-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="centred-inside-page">
+                <div class="title-inside-page anim-start">
+                    <h1>
+                        <span>service<i>.</i></span>
+                    </h1>
+                </div>
+                <div class="service-content-ip">
+                    <div class="desc-service-ip">
+                        <div class="centred-desc-service-ip anim-elem">
+                            <p>We identify compelling investment opportunities, opening doors that might otherwise appear closed. We facilitate all aspects of deal execution.</p>
+                        </div>
+                        <div class="top-services-cnt">
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top1.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Strategy</strong></p>
+<p>development for an acquisition or a sale</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top2.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Preparation</strong></p>
+<p>analysis of the company and investment memorandum</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top3.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Research</strong></p>
+<p>undertaking comprehensive industry and market research</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top4.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Identification</strong></p>
+<p>transaction opportunities, based on a client’s&nbsp;objectives and strategy</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top5.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Valuation</strong></p>
+<p>calculating an appropriate and fair value for business or assets</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top6.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Negotiations</strong></p>
+<p>getting the best possible price and terms even from the most complex deals</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top7.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Counsel</strong></p>
+<p>advising for secure acquisition and leading the due diligence process</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top8.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Legal formalities</strong></p>
+<p>negotiating and&nbsp;drafting&nbsp;the relevant legal documents and contracts&nbsp;</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top9.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>PR and reputation management</strong></p>
+<p>managing public relations and reputation around the transaction</p>
+                                </div>
+                            </div>
+                            <div class="one-top-service anim-elem">
+                                <div class="icon-one-top-service">
+                                    <img src="images/svg/service-top10.svg" alt="service icon: intro">
+                                </div>
+                                <div class="desc-one-top-service">
+                                    <p><strong>Post acquisition support</strong></p>
+<p>continuing advice and support during the post-acquisition period</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="our-service-fee-cnt">
+                            <div class="title-cmn-service anim-elem">
+                                <h2>
+                                    <span>our service <span>fee<i>.</i></span></span>
+                                </h2>
+                            </div>
+                            <div class="table-our-service-fee-cnt anim-elem">
+                                <p>You could calculate our Service Fee by the <strong>Lehman Scale</strong>.</p>
+                            </div>
+                            <div class="calculate-fee-service anim-elem">
+                                <div class="centred-calc-service-fee">
+                                    <div class="form-calc-sf">
+                                        <div class="title-calc-sf">Equity Value, €</div>
+                                        <input type="text" id="calc-fee" name="calc-fee" class="field-service">
+                                        <button type="button" class="common-btn-green submit-calc-fee">Calc Fee</button>
+                                    </div>
+                                </div>
+                                <div class="centred-calc-service-fee">
+                                    <div class="message-form-sf">
+                                        Our Service Fee would be <span id="count-sf"></span> €, or <span id="ps-sf"></span>% from the deal
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="desc-our-service-fee-cnt">
+                                <div class="centred-desc-service-fc anim-elem">
+                                    <p>This offer excludes distressed, and business in special situations</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="our-offer-cnt">
+                            <div class="title-cmn-service anim-elem">
+                                <h2>
+                                    <span>our <span>offer<i>.</i></span></span>
+                                </h2>
+                            </div>
+                            <div class="centred-our-offer-cnt">
+                                <div class="our-offer-cnt-list">
+                                    <div class="one-our-offer-cnt anim-elem">
+                                        <div class="icon-one-our-offer-cnt">
+                                            <div class="icon-one-offer">
+                                                <img src="images/svg/service-offer1.svg" alt="service icon">
+                                            </div>
+                                        </div>
+                                        <div class="title-one-offer">
+                                            <h3>100% Clear-Cut Hit</h3>
+                                        </div>
+                                        <div class="desc-one-offer">
+                                            <p>We only identify companies that precisely match your brief, since we undertake comprehensive market research, we take every detail of your strategy into account and provide sustainable and efficient deal execution.</p>
+                                        </div>
+                                    </div>
+                                    <div class="one-our-offer-cnt anim-elem">
+                                        <div class="icon-one-our-offer-cnt">
+                                            <div class="icon-one-offer">
+                                                <img src="images/svg/service-offer2.svg" alt="service icon: our offer">
+                                            </div>
+                                        </div>
+                                        <div class="title-one-offer">
+                                            <h3>Active searching</h3>
+                                        </div>
+                                        <div class="desc-one-offer">
+                                            <p>We can approach shareholders directly so as to acquire «not for sale» or to sell for «not acquiring» targets.</p>
+                                        </div>
+                                    </div>
+                                    <div class="one-our-offer-cnt anim-elem">
+                                        <div class="icon-one-our-offer-cnt">
+                                            <div class="icon-one-offer">
+                                                <img src="images/svg/service-offer3.svg" alt="service icon: our offer">
+                                            </div>
+                                        </div>
+                                        <div class="title-one-offer">
+                                            <h3>Professionalism</h3>
+                                        </div>
+                                        <div class="desc-one-offer">
+                                            <p>For each project we establish a team of the best qualified professionals and experts with relevant expertise and knowledge.</p>
+                                        </div>
+                                    </div>
+                                    <div class="one-our-offer-cnt anim-elem">
+                                        <div class="icon-one-our-offer-cnt">
+                                            <div class="icon-one-offer">
+                                                <img src="images/svg/service-offer4.svg" alt="service icon: our offer">
+                                            </div>
+                                        </div>
+                                        <div class="title-one-offer">
+                                            <h3>Negotiations</h3>
+                                        </div>
+                                        <div class="desc-one-offer">
+                                            <p>We can help to get the best possible price and terms by ensuring responsive communication, high quality preparation, applying all our experience and skills.</p>
+                                        </div>
+                                    </div>
+                                    <div class="one-our-offer-cnt anim-elem">
+                                        <div class="icon-one-our-offer-cnt">
+                                            <div class="icon-one-offer">
+                                                <img src="images/svg/service-offer5.svg" alt="service icon: our offer">
+                                            </div>
+                                        </div>
+                                        <div class="title-one-offer">
+                                            <h3>Confidentiality</h3>
+                                        </div>
+                                        <div class="desc-one-offer">
+                                            <p>Maintaining confidentiality is our specialty and that’s why your information would not be shared with any third party without your written permission.</p>
+                                        </div>
+                                    </div>
+                                    <div class="one-our-offer-cnt anim-elem">
+                                        <div class="icon-one-our-offer-cnt">
+                                            <div class="icon-one-offer">
+                                                <img src="images/svg/service-offer6.svg" alt="service icon: our offer">
+                                            </div>
+                                        </div>
+                                        <div class="title-one-offer">
+                                            <h3>Guarantee</h3>
+                                        </div>
+                                        <div class="desc-one-offer">
+                                            <p>If we don't achieve the desired results, you pay nothing. There are few, if any advisers offering the same no risk offer.</p>
+                                        </div>
+                                    </div>
+                                    <div class="one-our-offer-cnt anim-elem">
+                                        <div class="icon-one-our-offer-cnt">
+                                            <div class="icon-one-offer">
+                                                <img src="images/svg/service-top7.svg" alt="service icon: our offer">
+                                            </div>
+                                        </div>
+                                        <div class="title-one-offer">
+                                            <h3>Free support</h3>
+                                        </div>
+                                        <div class="desc-one-offer">
+                                            <p>We offer three months post-acquisition support at no extra cost.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <span class="circle-gray-b-service anim-elem"></span>
+            <span class="circle-gray-m-service anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

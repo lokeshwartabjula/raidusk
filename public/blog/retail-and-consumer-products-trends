@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>Retail and Consumer Products Trends</title>
+        <!-- Meta -->
+        <meta name="description" content="​At the turn of the last century, Marshall Field’s built the world’s biggest chandelier and the first retail escalator in its flagship Chicago location. This turned the fledgling department store concept into a must-see attraction. Today, retail and consumer companies are undergoing just as great a transformation.">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/public/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/public/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/public/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/public/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/public/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/public/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/public/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/public/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/public/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/public/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/public/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/public/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/public/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/public/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>02 Oct, 2017</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>Retail and Consumer Products Trends</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1506945251.jpg" alt="Retail and Consumer Products Trends">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <p>At the turn of the last century, Marshall Field&rsquo;s built the world&rsquo;s biggest chandelier and the first retail escalator in its flagship Chicago location. This turned the fledgling department store concept into a must-see attraction. Today, retail and consumer companies are undergoing just as great a transformation.</p>
+<p>We have identified five trends for retail and consumer CEOs to consider as they confront this more demanding environment. And although we offer strategic advice to mitigate the impact of these trends, more than likely you will find that any recommendations are mutable in this unmapped environment. Use them as a starting point to build upon, to stay one step ahead of roiling forces in your industry.
+ </p>
+<p><strong>1. Brand entrants are more focused</strong>
+ </p>
+<p>New micro, digital-only companies are flooding the market, riding on mobile consumer channels and the proliferation of social media. These retailers distinguish themselves by their well-defined niches and clever, often rebellious, promotional strategies. For them, the product is less a commodity than an art form in which the customer participates.
+ </p>
+<p>For example, Dollar Shave Club, an online business that sells inexpensive razors and blades, used a smart and winning video featuring the firm&rsquo;s irreverent CEO, a grizzly bear, and other oddities to build its new brand in 2012. This guerrilla advertisement immediately went viral, prompting 12,000 orders within the first two days of its release, obviating the need for traditional advertising. Another Web-based company, Birchbox, succeeded in the crowded field of cosmetics through clever packaging, a subscription option, and surprise products in monthly packages. Birchbox&rsquo;s entertaining shopping experience led to a powerful consumer word-of-mouth campaign that drove initial sales.
+ </p>
+<p>Implications: Examine your product line carefully to see if a startup could compete with you by using a business model that hollows out your profitability. Alternatively, look for places where you could create a focused direct-to-customer relationship through more compelling digital features, designs, and experiences. This would not only protect profits, but also create a firewall against these new rivals.
+ </p>
+<p><strong>2. Stores shrink</strong>
+ </p>
+<p>Foot traffic is on the decline in the U. S.: Retail store visits fell from 35 billion in 2009 to 17 billion in 2013. According to the National Association of Realtors, at 47 square feet of retail space per capita, the U. S. has more retail square footage than any other country. Meanwhile, as sales per square foot continue to decline after decades of growth, retailers are reconsidering size in favor of productivity, measured by profit per square foot. More than likely, in the U. S. and around the world, this attention to productivity will increase as digital technologies enable more efficient use of square feet, as well as more consumer buying outside the store.
+ </p>
+<p>Implications: Given the massive reduction in store visits, you must recalibrate to create an optimal balance between physical and digital presence. We expect some retailers will lack the agility to transform and survive. It&rsquo;s best to think of the physical store as another &laquo;screen.&raquo; Digital-first retailers compete effectively on two screens: the computer and the mobile device, and some are moving to add the physical screen. Physical-first retailers have the most resource-intensive screen covered, but continue to struggle to deliver a seamless three-screen experience.
+ </p>
+<p><strong>3. Giants personalize and localize</strong>
+ </p>
+<p>Few consumer products companies have a direct relationship with the purchasers of their products, even as robust data analytics allow personalization and localization, leading to ever more differentiated shopper segments. But bypassing their traditional retail partners&nbsp;&mdash; at least some of the time&nbsp;&mdash; in order to sell directly to consumers could produce hard-to-come-by growth for consumer packaged goods (CPG) companies.
+ </p>
+<p>For example, even as many retailers shrink store footage, some consumer goods companies are opening physical stores to gain a better retail foothold for their brands. Manufacturers and consumer companies such as Burberry, H&M, and Sport-Chek have launched technology-enabled outlets with minimal inventory and environments that invite consumers to enjoy an engaging, social, and interactive experience. In essence, to meet shoppers' expectations and counter online competition, these stores are offered as an experience alternative to restaurants, coffee shops, and movie theaters. Millennials and high-income shoppers tend to be drawn to these immersive environments, which might include interactive video displays, retail tables with touch-screen technology, personalized fitting-room lighting at the touch of a button, and digital memory mirrors to allow 360-degree viewing in the fitting room.
+ </p>
+<p>Implications: We expect that over the next five years, market power will flow to consumer goods manufacturers that have the most direct relationships with the end customer, as well as the strongest presence in retail channels of all types. A critical unknown is whether or not consumer firms can invest in both the technology and the infrastructure to essentially do their own retailing, even while they are chasing deep cost savings. Despite channel fragmentation in a more digital economy, you still must consider offering attention-grabbing retail outlets that give shoppers the tangible, sensory experience that many say they want before making a purchase.
+ </p>
+<p><strong>4. &laquo;Frenemies&raquo; collaborate</strong>
+ </p>
+<p>Retail and consumer companies have always had a complicated relationship. They&rsquo;ve partnered for decades, even as retailers have developed their own private-label brands to compete with manufacturers. Now that supply chains are more transparent, these &laquo;frenemies&raquo; are discovering more ways to benefit from growth opportunities together. The promise of margin improvements and cost cutting from supply chain efficiencies, for example, is behind the manufacturers' and retailers' recent efforts to share customer data, insights, and analysis. And performance-based trade promotions will become more routine as manufacturers ask retailers to help enhance the effectiveness of in-store product campaigns in return for sharing in gains from them.
+ </p>
+<p>Implications: Despite competitive efforts&nbsp;&mdash; such as private-label products or manufacturers' opening retail stores and other direct-to-consumer channels&nbsp;&mdash; the symbiotic relationship between consumer goods companies and retailers will remain strong. The two sectors agree on many of the most important issues: safeguarding customer data, ensuring food safety, building an omnichannel sales model, increasing the overall pie of consumer spending, and managing government regulation of the consumer sector, to name just a few. Overall, you should work on enhancing the traditional manufacturer-retailer partnership, which has the potential to grow stronger and be even more valuable in the years ahead as both sides separately and together design more innovative ways to reach consumers</p>
+<p><strong>5. Global brands embrace social issues</strong></p>
+<p>Of the top 20 brand leaders in 1999, only seven remain in the top 20 today, a 15-year survey of 200,000 consumers worldwide and their attitudes toward 6,700 global brands. In response to consumer concerns&nbsp;&mdash; and hoping to be among the brand leaders 15 years from now&nbsp;&mdash; large CPG companies are offering healthier options, collaborating with local nongovernmental organizations to improve economic conditions and the environment, and minimizing CO2 output and water usage. Costco and Starbucks have led the way among retail outlets in adopting above-minimum-wage pay, a trend that consumers say heavily influences their purchase decisions. And more boards of directors are collaborating with activist shareholders on improving corporate governance and executive pay-for-performance programs.
+ </p>
+<p>Implications: Consumer goods and retail companies are learning that they need to better represent customers' broader set of desires. The few leading brands that have embraced social issues for many years will be joined by a much larger cohort. Stronger alliances with public health organizations, combined with research on the science of nutrition, will take center stage. Healthier, reformulated product options will include far more no- or low-calorie choices. Companies will invest heavily in lobbying and government-relations resources to help articulate their point of view on any number of high-profile public policy issues.
+ </p>
+<p>In 2001, futurist Ray Kurzweil introduced the idea of the Law of Accelerating Returns, in which he argued that knowledge and technology have a positive feedback loop so that their speed of change is increasing all the time. Considering the outsized impact of new digital technologies and channels in the consumer and retail goods industry now, we suspect that you would not take issue with Kurzweil&rsquo;s assessment. Nor would you dismiss the notion that the future of your company depends on the quality of the strategies you come up with to combat and benefit from this turmoil.
+ </p>
+<p><a href="http://helicopter-view.com/public/blog/urban-world-the-global-consumers-to-watch" target="_blank"></a></p><p>Read also: <a href="http://helicopter-view.com/public/blog/retail-future">Retail Future</a>, <a href="http://helicopter-view.com/public/blog/top-10-lessons-for-retailers1">Top 10 Lessons for Retailers</a>, <a href="http://helicopter-view.com/public/blog/25-fastest-growing-apparel-retailers-in-europe">25 Fastest-growing Apparel Retailers in Europe</a>, <a href="http://helicopter-view.com/public/blog/retail-and-consumer-products-trends">Retail and Consumer Products Trends</a>, How do consumers shop (<a href="http://helicopter-view.com/public/blog/how-do-consumers-shop-part1" target="_blank">Part 1</a>, <a href="http://helicopter-view.com/public/blog/how-do-consumers-shop-part2" target="_blank">Part 2</a>), <a href="http://helicopter-view.com/public/blog/five-global-retail-trends-2017" target="_blank">Five Global Retail Trends 2017</a>, <a href="http://helicopter-view.com/public/blog/urban-world-the-global-consumers-to-watch" target="_blank">Urban World: The Global Consumers to Watch</a>
+</p>
+<p>Out project: <a href="http://helicopter-view.com/public/projects/european-fashion-apparel-brand">European fashion apparel brand</a></p><p><br></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/forecasts" title="Forecasts">Forecasts</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/trends" title="Trends">Trends</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/retail" title="Retail">Retail</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

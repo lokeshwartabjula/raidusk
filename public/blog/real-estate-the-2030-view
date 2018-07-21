@@ -1,0 +1,398 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>Real estate – the 2030 view</title>
+        <!-- Meta -->
+        <meta name="description" content="We are building buildings into a technological future that we have no idea what it will look like.
+
+Key influences:
+
+The sharing/collaborative economy
+Technology">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/public/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/public/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/public/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/public/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/public/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/public/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/public/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/public/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/public/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/public/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/public/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/public/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/public/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/public/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>20 Oct, 2017</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>Real estate&nbsp;&mdash; the 2030 view</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1510909679.jpg" alt="Real estate&nbsp;&mdash; the 2030 view">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <p>We are building buildings into a technological future that we have no idea what it will look like.
+ </p>
+<p>Key influences:</p>
+<ul><li>The sharing/collaborative economy</li><li>Technology/data management&nbsp;&mdash; greater transparency</li><li>Urbanization</li><li>We are moving from smart offices to smart cities and megacities</li></ul>
+<p>2030 state:</p>
+<ul><li>Real estate as a mainstream customer-centric industry
+ </li><li>Value shift towards operational management of real estate </li><li>More integration/overlap of real estate sectors
+ </li><li>New dominant group of&nbsp;&laquo;place curators&raquo;
+ </li><li>Simplified ownership/management structures
+ </li><li>Transformation in valuation methodologies
+ </li><li>Health, wellbeing, sustainability merge as a key driver of real estate value</li></ul>
+<p><strong>Residential/Living</strong></p>
+<figure><img src="/upload/images/1508498850.jpg"></figure>
+<p>Key trends:</p>
+<ul><li>The urban consumers
+ </li><li>Change to live/work balance
+ </li><li>Reducing car ownership
+ </li><li>Ageing population</li></ul>
+<p>2030 state:</p>
+<ul><li>Higher density </li><li>More vibrant and live able urban environments, combining live, work, and play </li><li>New growth: health care assisted living</li></ul>
+<p>We start seeing a different attitude to size and space. Micro-living is coming. Shared ownership, equity release and retirement living are ripe for opportunity
+ </p>
+<p><strong>Office/Work</strong></p>
+<p>Key trends:
+ </p>
+<ul><li>Connectivity </li><li>More collaborative working practices
+ </li><li>Artificial intelligence, augmented and virtual reality</li></ul>
+<p>2030 state:</p>
+<ul><li>On demand and use of space leasing </li><li>Offices as high-spec &laquo;imaginariums&raquo;
+ </li><li>Localized work-hubs/satellite offices
+ </li><li>Fewer single-let buildings as corporate requirements become more fluid
+ </li><li>Domination of share/serviced offices</li></ul>
+<p>More people work from home. Companies will need less space and it will change the nature of offices fundamentally. It will make a lot of the current office stock obcolete. </p>
+<p><strong>Student housing/Learn</strong></p>
+<p>Key trends:
+ </p>
+<ul><li>Technology&nbsp;&mdash; distributed learning
+ </li><li>Demographic&nbsp;&mdash; changing career plans/lifestyles
+ </li><li>Growing importance of social and collaboration skills
+ </li></ul>
+<p>2030 state:<br></p>
+<ul><li>Reduction in demand for on-campus, year-long students accommodation </li><li>Declining perception in value of university degree
+ </li><li>Increase apprenticeship schemes
+ </li><li>More mature students</li></ul>
+<p>Student accommodation is pretty &laquo;cooked&raquo; in most places. Now you have to get it right
+ </p>
+<p><strong>Retail and logistic/ Play</strong></p>
+<figure><img src="/upload/images/1508499224.jpg"></figure>
+<p>Key trends:
+ </p>
+<ul><li>E-commerce
+ </li><li>Technology-driven enhancement of customers experience
+ </li><li>Drones, 3-D Printing</li></ul>
+<p>2030 state:</p>
+<ul><li>Shopping centers as multi-faced communities that embrace broader lifestyle needs of communities </li><li>New asset class: urban consolidation hubs</li></ul>
+<p>With e-commerce we underestimate the extent to which the retail footprint will shrink. We are just phase of that</p>
+<p>Read also: <a href="http://helicopter-view.com/public/blog/emerging-trends-in-real-estate-in-europe-2017-and-beyond">Emerging Trends in Real Estate in Europe 2017 and beyond</a>, <a href="http://helicopter-view.com/public/blog/european-hotel-m-a-trends-for-20171">European Hotel M&A Trends for 2017</a>, <a href="http://helicopter-view.com/public/blog/european-hotel-m-a-activity-in-20161" target="_blank">European Hotel M&A Activity in 2016</a>, <a href="http://helicopter-view.com/public/blog/7-future-cities-of-the-world" target="_blank">7 Future Cities of the World</a></p>
+<p>Know more about best places to grow: <a href="http://helicopter-view.com/public/blog/amsterdam-one-of-the-best-place-to-grow1">Amsterdam</a>, <a href="http://helicopter-view.com/public/blog/barcelona-one-of-the-best-place-to-grow">Barcelona</a>, <a href="http://helicopter-view.com/public/blog/berlin-one-of-the-best-place-to-grow1">Berlin</a>, <a href="http://helicopter-view.com/public/blog/budapest-one-of-the-best-place-to-grow">Budapest</a>, <a href="http://helicopter-view.com/public/blog/dublin-one-of-the-best-place-to-grow">Dublin</a>, <a href="http://helicopter-view.com/public/blog/lisbon-one-of-the-best-place-to-grow">Lisbon</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/realestate" title="RealEstate">RealEstate</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/forecasts" title="Forecasts">Forecasts</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

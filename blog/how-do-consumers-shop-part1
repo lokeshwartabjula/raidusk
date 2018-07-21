@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>How do consumers shop?</title>
+        <!-- Meta -->
+        <meta name="description" content="​It’s no secret that in 2017 retailers are facing an increasingly challenging marketplace. How consumers want to shop – in addition to how much they want to spend – are strategic questions with no simple answers. While retailers grapple with providing a consistent shopping experience among channels, new kinds of competitors seem to pop up out of nowhere, further altering customer expectations and disrupting any hoped-for status quo. PwC’s 2017 Total Retail Survey explores global shoppers’ buying">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>27 Sep, 2017</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>How do consumers shop? (Part1)</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1506547456.jpg" alt="How do consumers shop? (Part1)">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <p>It&rsquo;s no secret that in 2017 retailers are facing an increasingly challenging marketplace. How consumers want to shop&nbsp;&mdash; in addition to how much they want to spend&nbsp;&mdash; are strategic questions with no simple answers. While retailers grapple with providing a consistent shopping experience among channels, new kinds of competitors seem to pop up out of nowhere, further altering customer expectations and disrupting any hoped-for status quo. PwC&rsquo;s 2017 Total Retail Survey explores global shoppers' buying behavior and paths to purchase. This is the sixth consecutive year we have produced this global survey, which this year tracks shopper feedback from more than 24,000 consumers in 29 territories and 11 different product categories.</p>
+<p><strong>Books</strong></p>
+<p>In the purchase journey for this product category, global shoppers looking at books, music, movies and video games are the most likely of all categories to research and purchase via an online channel, 68% and 60% respectively. For books, music, movies and video games, more than two-thirds (68%) of global shoppers do their research online, while only 16% prefer to research in store. Of shoppers who prefer researching online, the majority (44%) like researching by PC, 14% by mobile/smartphone and 9% by tablet.
+ </p>
+<p>When it comes to purchasing books, music, movies and video games purchases, 60% of global shoppers prefer to purchase online, while 28% prefer to purchase in store. Of those who like to purchase online, 41% prefer doing it with a PC, 11% like using a mobile/smartphone and 8% like using a tablet.
+ </p>
+<p>Shoppers in the books, music, movies and games category are the second most likely group of shoppers to have made purchases online to some extent in the last 12 months (73%), after clothing and footwear shoppers (77%). Over a third of shoppers said they purchased most or all of their purchases online in the last 12 months.
+ </p>
+<p>The countries in which book, music, movies and video game shoppers most prefer to do their research in store are Thailand (26%), Belgium (23%) and Vietnam (23%). By contrast, just 7% of shoppers in China and 9% of shoppers in Brazil prefer to do their research in this category in store.
+ </p>
+<p>The majority preference across all countries is to purchase this category online, with shoppers most likely to do this in China (77%), Brazil (76%), and Germany (69%). Shoppers in Brazil and Germany are most likely to complete these purchases using a PC, whereas Chinese shoppers utilize both mobile/smartphone and&nbsp;PC.
+ </p>
+<p>For the shoppers who like to purchase in store, Belgium (38%) and Australia (35%) score highest in this regard.
+ </p>
+<p><strong>Clothing and footwear
+ </strong></p>
+<p>For clothing and footwear, 52% of global shoppers prefer to research purchases online, while 34% prefer to research in store. Of those who research online, 31% prefer to research using a&nbsp;PC and 12% prefer to use a mobile/smartphone. 40% of global shoppers prefer to purchase clothing and footwear online, while 51% prefer in store. Of those who like to purchase online, 24% prefer to buy via PC, and 9% by smartphone.
+ </p>
+<p>Of all the product categories, clothing and footwear is the category most likely to have been purchased in the last 12 months (77%), with 28% of global shoppers purchasing most or all of their clothing and footwear online in the last 12 months.
+ </p>
+<p>Shoppers in Poland lead the way in preferring to research purchases in clothing and footwear online using a&nbsp;PC (48%). By contrast, Thailand has the smallest percentage of shoppers, only 19% research online using a&nbsp;PC. 15% of shoppers in Sweden and 14% of shoppers in the&nbsp;US and Australia indicated they do not research this category at all compared to only 2% for shoppers in Russia and Turkey.
+ </p>
+<p>With regards to purchasing preferences, shoppers in China (72%), Indonesia (54%) an Thailand (50%) lead the way for preference to purchase clothing and footwear via online channels. Italy is the most likely out of the European countries to prefer to purchase clothing and footwear online (48%).
+ </p>
+<p><strong>Consumer electronics and computers</strong></p>
+<p>For consumer electronics and computers, 62% of global shoppers prefer researching these purchases online, while 28% prefer to do their research in store. Of those researching, 45% like researching by&nbsp;PC 10% by mobile/smartphone and 7% by tablet.
+ </p>
+<p>When it comes to purchasing, a high proportion of shoppers indicate they like to shop across both channels for this product category, as 51% prefer to buy in store with 43% preferring to purchase online Of those who purchase online, 31% prefer using a PC, 6% a mobile/smartphone and 4% a tablet.
+ </p>
+<p>Over a quarter of global shoppers said they made most or all of their consumer electronic or computer purchases in the last 12 months. Of the 11 product categories surveyed, consumer electronics and computer products are the second most likely product category where shoppers prefer researching online (62%)&nbsp;&mdash; after books, music, movies and video games (68%).
+ </p>
+<p>The largest percentages of shoppers who prefer to research purchases online are in Brazil (79%) and&nbsp;UK (74%). Shoppers in Thailand, China and the Middle East lead the way in preferring to research online via mobile/smartphone&nbsp;&mdash; 23% of shoppers in Thailand and 19% of shoppers in China and the Middle East. This drops to 2% of shoppers in Belgium and 3% for shoppers in Poland and Denmark.
+ </p>
+<p>8% of&nbsp;US shoppers do not research this category at all&nbsp;&mdash; the largest number of any country. Shoppers in Australia (68%), Belgium (64%) and Philippines (63%) show the highest preference for purchasing this category in store. Shoppers in Brazil (69%), Germany (61%) and UK/Italy (56%) say they prefer to buy online.
+ </p>
+<p><strong>Do-it-yourself and home improvement
+ </strong></p>
+<p>For do-it-yourself/home improvement, 43% of global shoppers prefer to research purchases their online, while 33% prefer to so in store. Of those who prefer to research online, 27% like researching by PC, and 8% by mobile/smartphone.<br></p>
+<p>When it comes to do-it-yourself/home improvement purchases, just 30% of global shoppers like to purchase online with over half (52%) preferring to buy in store. Of those who prefer to purchase online, 18% like to do it by PC, 6% by mobile/smartphone and 5% by tablet. Across all product categories, shoppers were least likely to have purchased do-it-yourself/home improvement items in the last 12 months, this was tied with purchases of jeweler/watch items.
+ </p>
+<p>A quarter of global shoppers indicate they have made ‘some' do-it-yourself/home improvement purchases online in the last 12 months. Only 16% of shoppers say they complete most or all of their do-it-yourself/home improvement purchases online. 52% of Swiss shoppers researching do-it-yourself/home improvement items prefer to do their research in store&nbsp;&mdash; by far the largest percentage for any country.
+ </p>
+<p>Over a third of shoppers in Italy (36%), Poland (36%), Hungary (36%) and the&nbsp;UK (35%) prefer to do their research for this category online via&nbsp;PC. In both China and Thailand 18% of shoppers researching do-it-yourself/home improvement items prefer to do this online via mobile/smartphone&nbsp;&mdash; the largest percentage whilst only 3% of shoppers in Russia, France and Belgium used their mobile/smartphones.
+ </p>
+<p>Shoppers in Belgium (71%), Canada (64%) and Switzerland (65%) are most likely to purchase do-it-yourself/home improvement items in store. China (34%) had the lowest percentage of shoppers purchasing this category in store.
+ </p>
+<p>Shoppers in China (52%), Poland (43%) and Italy (42%) are most likely to shop for Do-it-yourself/Home Improvement online with 20% of shoppers in China purchasing this category across both mobile/smartphone and&nbsp;PC. In Poland, the majority of online purchases are made via&nbsp;PC (33%).</p>
+<p><strong>Furniture and home ware<br></strong></p>
+<p>For furniture and home ware, 45% of global shoppers prefer researching purchases online, while 39% prefer to do their research in store. Of those that research online, 29% prefer doing it by PC, 8% by mobile/smartphone and 7% by tablet.
+ </p>
+<p>When purchasing furniture and home ware, 59% of global shoppers prefer to purchase in store, while 30% prefer to purchase online. Of those who prefer purchasing online, 18% prefer to use a PC, while 5% choose tablet and 5% mobile/smartphone.
+ </p>
+<p>Global shoppers are most likely to say they have made ‘some' furniture and home ware purchases online during the last 12 months (25%).
+ </p>
+<p>Almost half of shoppers in Belgium (49%) and Switzerland (49%) prefer doing their research for furniture and home ware purchases in store, while only 25% of shoppers in the&nbsp;UK prefer to research this way, the largest and smallest percentages respectively.
+ </p>
+<p>When it comes to researching online via PC, Brazilian shoppers lead the way with 41% using a&nbsp;PC. By contrast, shoppers in Thailand and the Middle East are the least likely to use a&nbsp;PC (just 15% and 16% respectively).
+ </p>
+<p>With regards to purchasing, shoppers in Canada, Belgium, Australia, South Africa and the&nbsp;US overwhelmingly preferred to purchase furniture and home ware in store with 70% choosing this option.
+ </p>
+<p>China (53%), Brazil (41%), Chile (41%) and&nbsp;UK (41%) shoppers were most likely to purchase furniture and home ware products online, with shoppers in Brazil mostly purchasing via&nbsp;PC (31%). When it comes to purchasing via mobile, shoppers in China were most likely out of all countries to do so (18%).
+ </p>
+<p><strong>Grocery</strong></p>
+<p>Grocery is the product category with the highest percentage of shoppers both preferring to research (53%) and purchase (70%) in store.
+ </p>
+<p>53% of shoppers globally prefer to do their research for grocery purchases in store, while 30% of shoppers prefer to research online. Of those who choose to research online, 16% prefer to do so via PC, 8% by mobile/smartphone and 5% by tablet.
+ </p>
+<p>70% of shoppers globally still prefer to purchase grocery in a store, the highest of all product categories, with a further 23% purchasing online. Of those who like to purchase online, 12% prefer to do it using a PC, 6% using a mobile/smartphone and 4% using a tablet. 33% of global shoppers said they made ‘some' grocery purchases online in the last 12 months.
+ </p>
+<p>While shoppers in Switzerland (71%) and Germany (70%) prefer to do their research for grocery products in store, only 24% of Chinese shoppers prefer researching in store&nbsp;&mdash; the most and least respectively among the countries. 24% of shoppers in Sweden and 21% of shoppers in the&nbsp;US do not research this product category.
+ </p>
+<p>When it comes to purchasing grocery, shoppers in Russia (82%), Canada (81%) and Switzerland (81%) are the most likely to prefer to purchase grocery in store. Shoppers in China are least likely (28%).
+ </p>
+<p>China is by far the country where shoppers prefer to purchase grocery online, with an overwhelming 65% preferring to buy grocery online. However a further five countries surveyed have almost one third or more of their shoppers preferring to buy on line; Middle East, Singapore, Thailand, UK and Vietnam.
+ </p>
+<p>In comparison the four countries with the lowest proportion of shoppers preferring to buy this category online, with just over 10% of shoppers choosing this preference were shoppers in Belgium, Denmark, Switzerland and the US</p>
+<p>Read also: <a href="http://helicopter-view.com/public/blog/retail-future">Retail Future</a>, <a href="http://helicopter-view.com/public/blog/top-10-lessons-for-retailers1">Top 10 Lessons for Retailers</a>, <a href="http://helicopter-view.com/public/blog/25-fastest-growing-apparel-retailers-in-europe">25 Fastest-growing Apparel Retailers in Europe</a>, <a href="http://helicopter-view.com/public/blog/retail-and-consumer-products-trends">Retail and Consumer Products Trends</a>, How do consumers shop (<a href="http://helicopter-view.com/public/blog/how-do-consumers-shop-part2" target="_blank">Part 2</a>), <a href="http://helicopter-view.com/public/blog/retail-and-consumer-products-trends" target="_blank">Retail and Consumer Products Trends</a>, <a href="http://helicopter-view.com/public/blog/five-global-retail-trends-2017" target="_blank">Five Global Retail Trends 2017</a>, <a href="http://helicopter-view.com/public/blog/urban-world-the-global-consumers-to-watch" target="_blank">Urban World: The Global Consumers to Watch</a><br><br></p><p><br></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/blog/tag/trends" title="Trends">Trends</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/analytics" title="Analytics">Analytics</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/retail" title="Retail">Retail</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

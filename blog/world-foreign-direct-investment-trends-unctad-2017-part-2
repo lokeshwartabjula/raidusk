@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>World Foreign Direct Investment Trends UNCTAD 2017 (Part 2)</title>
+        <!-- Meta -->
+        <meta name="description" content="In 2016, global FDI flows decreased by 2 per cent to $1.75 trillion, showing that the road to full FDI recovery remains bumpy. Intracompany loans recorded a sizable drop; equity investments were boosted by an 18 per cent increase in the value of cross-border mergers and acquisitions (M&amp;As). A fall in inflows to developing economies was partly offset by modest growth in developed countries and a significant increase in transition economies. As a result, the share of developed economies in global">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>08 Oct, 2017</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>World Foreign Direct Investment Trends UNCTAD 2017 (Part 2)</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1507460991.jpg" alt="World Foreign Direct Investment Trends UNCTAD 2017 (Part 2)">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <p><strong>Global FDI flows lost growth momentum in 2016</strong></p>
+<p>In 2016, global FDI flows decreased by 2 per cent to $1.75 trillion, showing that the road to full FDI recovery remains bumpy. Intracompany loans recorded a sizable drop; equity investments were boosted by an 18 per cent increase in the value of cross-border mergers and acquisitions (M&As). A fall in inflows to developing economies was partly offset by modest growth in developed countries and a significant increase in transition economies. As a result, the share of developed economies in global FDI inflows grew to 59 per cent. </p>
+<p>Flows to developed economies increased by 5 per cent to $1,032 billion. The decline of FDI flows to Europe was more than compensated by modest growth in flows to North America and a significant increase in investment in other developed economies. Developing economies, as a group, lost ground in 2016. Weak commodity prices and slowing economic growth weighed on foreign investment inflows, which fell by 14 per cent to $646 billion. In contrast, FDI to transition economies jumped to $68 billion, reversing the decline of the past two years. </p>
+<p>Developing economies continued to account for half of the top 10 host economies. The United States remained the largest recipient of FDI, attracting $391 billion in inflows, followed by the United Kingdom with $254 billion, vaulting from its 14th position in 2015 on the back of large cross- border M&A deals. China was in third position with inflows of $134 billion&nbsp;&mdash; a 1 per cent decrease from the previous year. </p>
+<p>FDI inflows, top 20 host economies, 2015 and 2016</p>
+<figure><img src="/upload/images/1507460636.png"></figure>
+<p><strong>FDI outflows declined in all major regions </strong>
+ </p>
+<p>Outward investment from developed economies declined by 11 per cent to $1 trillion in 2016. Their share in global outward FDI flows remained stable&nbsp;&mdash; at just over 70 per cent&nbsp;&mdash; as outflows from developing economies remained flat, at $383 billion, and those from transition economies contracted 22 per cent, to $25 billion. Investment by European MNEs, which had surged in 2015, retreated significantly in 2016, falling 23 per cent to $515 billion. This was driven by sharp reductions in outflows from Ireland, Switzerland and Germany. Investment by North American MNEs was roughly steady in 2016, despite a significant reduction in the value of their cross-border M&A purchases. The United States remained the world&rsquo;s largest outward- investing country in 2016, although flows declined marginally (-1 per cent), to $299 billion. </p>
+<p>FDI outflows from developing Asia rose by 7 per cent to $363 billion. Chinese outward FDI rose by 44 per cent to $183 billion, driven by a surge of cross- border M&A purchases by Chinese firms, propelling the country to the position of second largest investor for the first time. In contrast, outward </p>
+<p>FDI outflows, top 20 home economies, 2015 and 2016 (Billions of dollars) 
+ </p>
+<figure><img src="/upload/images/1507460819.png"></figure>
+<p>FDI from members of the Association of Southeast Asian Nations declined. Outflows from Latin America and the Caribbean also shrunk. The top 20 investing economies include 6 developing and transition economies. </p>
+<p><strong>Large economic groups drive global FDI trends </strong>
+ </p>
+<p>FDI flows to and from large economic groups such as the G20 and Asia- Pacific Economic Cooperation (APEC) continued to shape the global FDI landscape in 2016. Inflows to the G20 reached a record level of more than $1 trillion for the first time. </p>
+<p>Some groups&nbsp;&mdash; the Commonwealth of Nations; the BRICS (Brazil, the Russian Federation, India, China and South Africa), the African, Caribbean and Pacific Group of States (ACP)&nbsp;&mdash; are, on average, net recipients of FDI flows, while others (the G20, APEC, NAFTA) are net exporters of FDI. Except for NAFTA, outward FDI from most large groups rose in 2016. Intragroup connectivity through FDI is high in the G20 and APEC and growing in BRICS and the ACP. In addition to these mega groups, interregional schemes such as the One Belt One Road initiative are poised to stimulate FDI among a broader range of countries. </p>
+<p><strong>A closer look at the high share of FDI in services </strong>
+ </p>
+<p>In 2015, the manufacturing and primary sectors accounted for 26 per cent and 6 per cent of global FDI stock, respectively. The services sector accounted for 65 per cent. A detailed look at what is in services FDI shows that its two-thirds share provides an inflated impression of the importance of the tertiary sector in cross-border investment. A large part of FDI in services relates to affiliates of primary sector and manufacturing MNEs that perform services-like activities, including headquarters or back-office functions, financial holdings, procurement or logistics hubs, distribution services, and research and development. In sectoral FDI data, such activities are allocated to services as the default category. FDI in services could thus be overstated by more than a third. 
+ </p>
+<p><strong>Low commodity prices depress FDI in Africa </strong>
+ </p>
+<p>FDI flows to Africa continued to fall in 2016, to $59 billion, a decrease of 3 per cent. The resurgence of FDI into Egypt&nbsp;&mdash; the largest recipient of regional FDI&nbsp;&mdash; boosted inflows to North Africa. In contrast, low commodity prices hurt economic prospects in Sub-Saharan Africa and tempered investor interest. Flows dropped again in Angola, and they remained at relatively low levels in Nigeria and South Africa. East Africa registered relatively strong FDI inflows in 2016, with Ethiopia attracting more FDI than ever before. MNEs from developing economies are increasingly active on the continent, but those from developed countries are still the most important investors. </p>
+<p>Outward investment by African MNEs rose slightly (1 per cent to $18 billion), largely reflecting a rise in outflows from Angola (35 per cent to $11 billion), which offset a sharp reduction in flows from South Africa (-41 per cent to $3 billion). </p>
+<p><strong>FDI flows to developing Asia down in almost all subregions </strong>
+ </p>
+<p>Combined FDI flows to developing Asia decreased by 15 per cent to $443 billion in 2016. The decline&nbsp;&mdash; the first since 2012&nbsp;&mdash; was relatively widespread, with every major subregion, except South Asia, registering drops. The bulk of the overall decrease was caused by a return to prior levels of flows to Hong Kong (China), after the spike in 2015. Depressed values of cross-border M&As, which decreased from $50 billion in 2015 to $42 billion in 2016, also contributed. In East Asia, China&rsquo;s relatively stable performance in inflows limited the overall fall in the subregion. In South-East Asia, inflows dropped, due mainly to decreases in Indonesia, Singapore and Thailand. In South Asia, FDI inflows were flat, increasing in India by only 1 per cent. In West Asia, the continued fall in FDI reflected regional conflict and the prolonged negative impact of low commodity prices. </p>
+<p>FDI outflows from developing Asia rose by 7 per cent to $363 billion. China&rsquo;s continued surge drove up outflows from East Asia while sluggish outward FDI from Indonesia and Singapore dragged down outflows from South-East Asia. Outflows continued to slide in South Asia but bottomed out in West Asia. </p>
+<p><strong>FDI flows to Latin America and the Caribbean slide further </strong>
+ </p>
+<p>The downward trend in FDI flows to Latin America and the Caribbean accelerated in 2016, with inflows falling by 14 per cent to $142 billion, as investment slowed throughout the region. Economic recession, coupled with weak commodity prices and higher currency volatility, weighed heavily on flows to South America, which declined by 14 per cent to $101 billion. In Central America inflows also declined, by 14 per cent to $38 billion, adding to decelerations in gross fixed capital formation and export volumes. FDI inflows in the Caribbean, excluding financial centres, declined (-9 per cent to $3 billion), but with significant variations at the country level. </p>
+<p>Outward investment by Latin American MNEs plunged in 2016, as their foreign affiliates funnelled significant volumes of finance back to their parents. It fell by 98 per cent to $1 billion, reaching its lowest level since 2001. </p>
+<p><strong>FDI flows to transition economies bounce back </strong>
+ </p>
+<p>In 2016, FDI flows to transition economies jumped to $68 billion, after a steep decline in the preceding two years. The two main subregions experienced divergent trends. In the Commonwealth of Independent States and Georgia, FDI inflows almost doubled, owing to an exceptional rise in flows to Kazakhstan as well as a strong rise in flows to the Russian Federation. In South-East Europe inflows declined by 5 per cent, owing to fewer investments in the manufacturing sector. The list of main investor home economies shows a gradual shift in favour of new countries, especially China. </p>
+<p>Outward FDI from transition economies fell further in 2016, by 22 per cent to $25 billion, mainly due to negative outflows from Kazakhstan (-$5 billion). Flows from the Russian Federation, which account for the bulk of the region&rsquo;s total, increased marginally to $27 billion, despite reduced access to international capital markets. </p>
+<p><strong>Mega-M&As help sustain FDI flows to developed countries </strong>
+ </p>
+<p>At $1 trillion, FDI flows to developed economies rose 5 per cent. In Europe, record cross-border M&A sales were offset by a slump in intracompany loans, resulting in a 6 per cent contraction of inflows. Despite the Brexit vote, inflows to the United Kingdom rose to an unprecedented level, owing to the completion of several M&A megadeals. In contrast, inflows to developed countries in North America and the Asia-Pacific expanded, except in Canada. Inflows to the United States were at an all-time high, boosted by the completion of M&As, especially in the pharmaceutical industry. Australia reversed the decline seen over 2013−2015, while flows to Japan showed signs of sustained revival. </p>
+<p>FDI outflows from developed countries declined by 11 per cent to $1 trillion. Outflows from European countries fell by 23 per cent overall, mainly driven by sharp reductions in outflows from Ireland (down 73 per cent to $45 billion), Switzerland (down 71 per cent to $31 billion) and Germany (down 63 per cent to $35 billion). Outflows from North America were stable but, as in previous years, a large part of those flows was accounted for by retained overseas earnings. Japanese MNEs expanded their FDI through cross- border M&As, particularly in Europe. </p>
+<p><strong>FDI to structurally weak and vulnerable economies remains fragile </strong>
+ </p>
+<p>After hitting a high of $44 billion in 2015, FDI inflows to the least developed countries (LDCs) were reduced by more than 13 per cent to $38 billion, representing 2 per cent of global FDI flows and 6 per cent of flows to all developing economies. Nonetheless, more than 20 LDCs attracted more FDI than in the previous year, led by relatively diversified major FDI host economies such as Cambodia and Ethiopia. China remained the largest investor economy in LDCs, far ahead of France and the United States. Although the sectoral distribution of announced greenfield FDI projects in LDCs underscores the potential for attracting more investment into the manufacturing and services sectors, oil and gas investments will continue to drive overall FDI flows into LDCs for the foreseeable future. </p>
+<p>After a major decline in 2015, FDI flows to the 32 landlocked developing countries (LLDCs) stabilized at $24 billion in 2016. LLDCs continue to play a marginal role on the global FDI scene, accounting for less than 2 per cent of world inflows. The dynamics of FDI inflows diverged across regions and host economies. FDI was up in transition economies, especially in Kazakhstan, and inflows rose for a fourth consecutive year in Ethiopia, whereas flows to Mongolia turned negative. Although FDI to LLDCs continues to focus on natural resources, investment is shifting towards other economic activities, such as infrastructure and manufacturing, helping to mitigate these countries' geographical disadvantage. Investors from developing countries, particularly China, account for an increasing share of FDI to LLDCs. FDI prospects warrant cautious optimism. Continued recovery still hinges on the evolution of commodity prices and political issues that could weigh on future FDI. </p>
+<p>The fragile FDI flows to the small island developing States (SIDS) decreased by 6 per cent $3.5 billion. The share of SIDS in global FDI flows has stagnated at less than 0.5 per cent in most years since 2009. Recoveries in Maldives and Mauritius were offset by reduced flows to a dozen other economies. Jamaica leads the SIDS in terms of attracting more diversified FDI. Among external sources of finance, the volatility of FDI flows into SIDS has become more pronounced since 2008, while remittances and official development assistance remain steady. Developing economies constitute 7 of the top 10 investors in SIDS, although the developed economies of Canada and United States lead in volume by a wide margin. 
+ </p>
+<p>Read also: <a href="http://helicopter-view.com/public/blog/top-five-2017-year-fdi-confidence-index-changes" target="_blank">TOP five 2017 year FDI Confidence Index changes</a>, World Foreign Direct Investment Trends UNCTAD 2017 (<a href="http://helicopter-view.com/public/blog/world-foreign-direct-investment-trends-unctad-2017-part-1" target="_blank">Part 1</a>), <a href="http://helicopter-view.com/public/about" target="_blank">and&hellip;</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/blog/tag/forecasts" title="Forecasts">Forecasts</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/2017" title="2017">2017</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/trends" title="Trends">Trends</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/world" title="World">World</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/fdi" title="FDI">FDI</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

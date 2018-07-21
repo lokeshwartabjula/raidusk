@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>Portuguese Wine Regions in 2016</title>
+        <!-- Meta -->
+        <meta name="description" content="There is a lot to be written about Portuguese wine regions and its wines. During the past few years, Portuguese wines have been gaining ground in terms of exportation and, consequently, reputation.">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/public/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/public/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/public/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/public/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/public/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/public/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/public/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/public/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/public/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/public/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/public/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/public/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/public/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/public/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>26 Sep, 2017</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>Portuguese Wine Regions in 2016</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1506411757.jpg" alt="Portuguese Wine Regions in 2016">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <p>There is a lot to be written about Portuguese wine regions and its wines. During the past few years, Portuguese wines have been gaining ground in terms of exportation and, consequently, reputation. The most famous Portuguese wine is, by far, Port Wine, but there are a lot more wines that deserve recognition throughout the world, and they will eventually get it.
+ </p>
+<p>Recently, 578 Portuguese wines were awarded at the prestigious Decanter World Wine Awards. The highlighted awards account for 7 Platinum medals, 33 gold medals, 127 silver and 229 bronzes.
+ </p>
+<p>Portuguese wines were also distinguished at the 33rd International Wine Challenge edition with 64 gold medals, 238 silver medals and 341 bronze medals. Portugal was among the most awarded countries alongside with France, Italy and Spain.
+ </p>
+<p>This year only, Portuguese wine sales are up almost 7% compared to the previous year for the same period. Canada is the main reason for this result with an increase of 45% of Portuguese wines importation. Other countries have also increased their supply demand, such as Switzerland, Germany, and even China.
+ </p>
+<p>Fortunately, and despite being a small country, Portugal has many wine regions producing great wine.
+ </p>
+<p><strong>Vinho Verde</strong> is the largest in Portugal, produces approximately 85 million liters of Vinho Verde every year. 86% of it is white wine made primarily from the Alvarinho, Avesso, Azal, Arinto, Loureiro, and Trajadura grape varieties.
+ </p>
+<p><strong>Trás-os-Montes </strong>You&rsquo;ll find vineyards across a wide range of altitudes. This allows production of a vast wine variety. The vineyards located in the cooler high altitude gives us light bodied wines while the lower altitude region gives us full bodied, highly alcoholic wines. One of its first wines to be internationally recognized was the semi-sweet, semi-sparkling wine known as rosado.
+ </p>
+<p><strong>Douro </strong>is the oldest wine region in the world. The Douro Demarcated Wine Region dates back to 1756. It&rsquo;s at the heart of Douro where many of the top wines are produced, up to about 90&nbsp;km (56 mi) distance from the city of Porto. It&rsquo;s in Douro that the Port Wine is born, the main ambassador of the Portuguese wines, but in the last decades, the table wines from Douro have been appreciated, achieving worldwide notoriety.
+ </p>
+<p><strong>Tavora-Varosa </strong>region&rsquo;s unique climate and soil conditions, with mostly granitic soils, poor in limestone, sometimes schist and acid, with marked erosion, with a continental dry temperate clime, harsh winters, make this a special region for the production of wines. Because of its altitude, 500 to 800 meters above sea level and harsh winters, the grapes retain good acidity and fruit, and are perfect for production sparkling wines&nbsp;&mdash; indeed this was the first region in Portugal to be demarcated for sparkling wines, in 1989.
+ </p>
+<p><strong>Bairrada </strong>region is a land of many and good wines, made with varieties of high quality, such as Baga, in the red wines, and Bical, in the white wines. Because it is near the sea, the climate is typically Atlantic, with mild and rainy winters, a hot but slightly windy summer. During the ripening period of the grapes, this region registers a great thermal amplitude, sometimes the difference reaches the 20ºC. This phenomenon is responsible for maintaining the acidity of the grapes, giving freshness to the wines that result from them.
+ </p>
+<p><strong>Dão-Lafões </strong>region is located in a territory of the Centre Region, between the coast and the hinterland of the country region. The varieties in Dão are diverse. In what regards the white ones, the most important are: Encruzado, Bical, Cercial, Malvasia Fina, Rabo de Ovelha e Verdelho. In the red ones (tinto), in addition to Touriga Nacional, Alfrocheiro, Jaen e Tinta Roriz, we also have the less known Baga, Bastardo and Tinta Pinheira. The white wines are very aromatic, balanced and fruity. The red ones are full-bodied, aromatic and complex after aging in bottle. Lafões is a small transition region, trapped between the denominations of Dão and Green Wine, cut by the Vouga river, with mainly granitic soils, where the white varieties of reference are Arinto, Cerceal, Dona Branca, Esgana Cão e Rabo de Ovelha, being the red dominated by the varieties Amaral and Jaen. Usually, the Lafões wines show some acidity, close to the neighbour designation of Green Wine.
+ </p>
+<p><strong>Beira Interior </strong>Beira Interior region produces white, red and rose wines, as well natural sparkling wines of great quality, thanks to the variety of grapes, which have allowed the constant discovery of new flavors and aromas. Over the past few years, this region saw a great development concerning the increase of producers and quality of the wines. Beira Interior wants to present itself as a region of excellence and quality regarding the production of wines and occupies its place close to the great wine regions of Portugal.
+ </p>
+<p><strong>Lisbon </strong>This is Portugal&rsquo;s second largest wine-producing region by volume, after the Douro. Of its total output, 65% is exported. This wine region was known as Estremadura until 2008. Lisbon wine region produces and sells many excellent wines. There are a growing number of private wine estates, but a great many small-scale producers deliver their grapes to large co-operatives. The region makes a lot of inexpensive quaffing wine, known <em>as vinho de mesa.</em>
+ </p>
+<p><strong>Tejo </strong>was previously known as Ribatejo and it was once famous for producing huge quantities of wine, supplying especially the restaurants and taverns of Lisbon. In the production of regional wine of Ribatejo, it&rsquo;s allowed the use of varieties not permitted in the Designation of Origin. This way, farmers can do more experiments with the soil, climate and grape varieties to produce unique wines. Regardless of the DOC (Protected Designation of Origin) designation or Regional, the terroir of Ribatejo is felt in any wine of the region: very fruity white wines, with tropical or floral aromas, and young reds, aromatic and of soft tannins.
+ </p>
+<p><strong>Peninsula de Setubal</strong> region acquired great prestige and importance in the last decades of the twentieth century. The cultures of the vine and of the wine have been able to integrate and have adapted to these new times, being nowadays unanimously recognized as a strategic resource and of great quality in the region. From the large farms dominated by the variety Castelão to the Moscatel, one of the national dessert wines, this region has always played a leading role in the history of Portuguese wines. The dessert wine of Setúbal, made of the varieties Moscatel and Moscatel Roxo, is one of the oldest and most famous wines in the world.
+ </p>
+<p><strong><u>Alentejo </u></strong>One of the largest wine regions of Portugal, enjoying a warm and dry climate, with an excellent &laquo;terroir&raquo;, that propelled numerous investments in the wine sector, resulting in the production of some of the best Portuguese wines and, consequently, in the international recognition of Alentejo wines. The most important white grape varieties in the region are the Roupeiro, Antão Vaz and Arinto. Regarding the red varieties, Trincadeira, Aragonez, Castelão and Alicante Bouschet (French variety) are the most appreciated ones. White wines from Alentejo are generally mild, slightly acid and with aromas of tropical fruits. The reds are full-bodied, rich in tannins and with aromas of wild and red berries. In short, the Alentejo wines offer tremendous pleasure, be they white, rosé or red wine. They are full of strong aromatic exuberance, round and smooth, with a unique ability to be drunk while young, but knowing how to age with distinction.
+ </p>
+<p><strong>Algarve </strong>is considered by many people a tourist paradise in Portugal. It is most known for having some of the best beaches and golf courses in the world. This wine region is demarcated since 1980, but only in recent years started to revitalize its wine sector. It began by replanting varieties of grapes, modernizing wineries, and new methods of producing wine have been practiced. The red varieties are the traditional Castelão and Negra Mole and the white varieties are Arinto and Síria. The Syrah was one of the varieties used in the replanting of the vineyards and demonstrated complete adaptability to the climate of the region, therefore it has been widely planted by farmers. Very ripe fruit, velvety and warm flavours, characterizes both the red and the white wines. The wines of this region have a high alcohol content.
+ </p>
+<p><strong>Madeira </strong>The ex-libris of tourism in the Atlantic Ocean, also known as&nbsp;&laquo;The Pearl of the Atlantic&raquo;, is a place of vineyard&rsquo;s cultivation. The well-known &laquo;Madeira&raquo; wine is the best example, showing unusual qualities and features, such as its longevity. The production of white, red and rosé wines turned out to be internationally recognized and led to the creation of the Designation of Origin of Madeira in 1990. Most European courts considered the wine &laquo;Madeira&raquo; a very elegant wine. It was even used to serve as perfume on the ladies scarves. In England, Madeira and Port Wine competed for the first place in the preferences of the court. Even William Shakespeare, when writing a play for King Henry IV, made reference to Madeira wine. In the play, the character Falstaff sells his soul to the Devil in exchange for a piece of cold capon and a glass of Madeira.
+ </p>
+<p><strong>Azores </strong>is a nine islands archipelago in the Atlantic Ocean, discovered by the Portuguese explorers in the 15th century. Of the nine islands, only three have significant meaning concerning vine cultivation. The &laquo;Designations of Origin&raquo; were created in 1994 and are named: Graciosa, Biscoitos and Pico. In the Graciosa Island is produced white wine from the grape variety Verdelho (the most famous and most cultivated grape, original from Sicily or Cyprus and taken to the Azores by the Franciscan Friars), Arinto, Terrantez, Boal and Fernão Pires. In Terceira Island, in the region of Biscoitos, the varieties Verdelho, Arinto and Terrantez are used for the production of fortified wine. InPico Island, Verdelho, Arinto and Terrantez are the most used grape varieties. The Azorean fortified wines offer a remarkable freshness and acidity, and the fortified wine from Pico Island is considered the most prominent of all.
+ </p><p>Read also: <a href="http://helicopter-view.com/public/blog/tips-for-success-in-the-wine-business1">Tips For Success In The Wine Business</a>, <a href="http://helicopter-view.com/public/blog/new-trends-shaping-the-alcohol-industry-in-nbsp-us">New Trends Shaping The Alcohol Industry in US</a>, <a href="http://helicopter-view.com/public/blog/wine-the-emergence-of-a-new-world-order">Wine: The Emergence of a New World Order</a>, <a href="http://helicopter-view.com/public/blog/top-10-alcohol-drinking-countries-in-africa1" target="_blank">TOP-10 Alcohol-drinking Countries in Africa</a></p>
+<p>Out project: <a href="http://helicopter-view.com/public/projects/winery-in-a-well-known-wine-region">Winery in a well-known wine region</a></p><p><br></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/wine" title="Wine">Wine</a>
+                                                                    <a href="http://helicopter-view.com/public/blog/tag/analytics" title="Analytics">Analytics</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/public/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

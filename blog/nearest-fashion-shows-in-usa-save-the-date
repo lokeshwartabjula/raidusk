@@ -1,0 +1,380 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106831046-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+        gtag('config', 'UA-106831046-1');
+    </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="csrf-token" content="FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="format-detection" content="telephone=no">
+
+        <title>Nearest Fashion Shows in USA. Save the Date!</title>
+        <!-- Meta -->
+        <meta name="description" content="​The United States is one of the leading countries in the fashion design industry, along with France, Italy, the United Kingdom, Germany and Japan. Apart from professional business attire, American fashion is eclectic and predominantly informal.
+
+New York City and Los Angeles are the centers of America&#039;s fashion industry. They are considered leading fashion capitals. New York City is generally considered to be one of the &quot;big four&quot; global fashion capitals, along with Paris, Milan and London.">
+        <!-- Styles -->
+
+        <!-- favicon tags -->
+        <link rel="icon" type="image/png" href="/images/favicon/16.ico" sizes="16x16">
+        <link rel="icon" type="image/png" href="/images/favicon/32.ico" sizes="32x32">
+        <link rel="icon" type="image/png" href="/images/favicon/96.ico" sizes="96x96">
+
+        <!-- add to homescreen for chrome on android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="Helicopter View">
+        <link rel="icon" sizes="192x192" href="/images/favicon/192.ico">
+        <link rel="icon" sizes="512x512" href="/images/favicon/512.ico">
+
+        <!-- tile icon for Win8 -->
+        <meta name="msapplication-TileImage" content="images/favicon/144.ico">
+        <meta name="msapplication-TileColor" content="#00AC97">
+
+        <!-- color the status bar on mobile devices -->
+        <meta name="theme-color" content="#00AC97">
+
+        
+        <!-- Check if the language is set to RTL, so apply the RTL layouts -->
+        <!-- Otherwise apply the normal LTR layouts -->
+
+        <link href="/css/build.min.css" rel="stylesheet">
+
+        <script>
+            window.Laravel = {"csrfToken":"FKEaQHf0UW2S3jmqOKbi2MDUOmYPbhH08hP5JEKS"}        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92539918-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-92539918-2');
+        </script>
+    </head>
+    <body>
+        <div id="gb-case">
+
+            <div id="header">
+    <div class="dp-head">
+        <div class="centred-header">
+            <div class="left-header">
+                <a href="/" title="Home" id="logo-header">
+                    <div class="logo-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 62.38" id="logo-icon-svg">
+                            <defs>
+                                <style>.cls-1{fill:#20aa97}.cls-2,.cls-3{fill:none;stroke:#333436;stroke-width:5px}.cls-2{stroke-linejoin:round}.cls-3{stroke-miterlimit:10}</style>
+                            </defs>
+                            <title>logo-mp</title>
+                            <g id="Слой_2" data-name="Слой 2">
+                                <g id="lines-logo" data-name="Слой 1">
+                                    <path class="cls-1" d="M77.09 20.72l10.41 10.4L77 41.67l-1.81-1.81s6.36-8.79.14-17.34zM10.41 41.67L0 31.26l10.54-10.54 1.81 1.81S6 31.31 12.21 39.86z"/>
+                                    <path class="cls-2" d="M23.46 10.9a28.69 28.69 0 0 1 40.54 0"/>
+                                    <path class="cls-3" d="M64 51.48a28.69 28.69 0 0 1-40.58 0"/>
+                                    <circle id="circle-logo" class="cls-1" cx="43.75" cy="31.19" r="16.17" transform="rotate(-45 43.749 31.189)"/>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div id="title-logo">
+                        <span>helicopter</span>
+                        <span><span>view</span><i>.</i></span>
+                    </div>
+                </a>
+            </div>
+            <div class="right-header">
+                <ul id="menu-header">
+                    <li class="">
+                        <a title="About us" href="http://helicopter-view.com/about">
+                            <span>about us</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Service" href="http://helicopter-view.com/service">
+                            <span>service</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Our projects" href="http://helicopter-view.com/projects">
+                            <span>our projects</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Process" href="http://helicopter-view.com/process">
+                            <span>process</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Faq" href="http://helicopter-view.com/faq">
+                            <span>faq</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a title="Blog" href="http://helicopter-view.com/blog">
+                            <span>blog</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a title="Contacts" href="http://helicopter-view.com/contact">
+                            <span>contacts</span>
+                            <i>.</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mp-head">
+        <a href="/" title="Home" class="logo-mp-head">
+            <span class="logo-mp-icon"></span>
+            <div class="title-mp-logo">
+                <span>helicopter</span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </a>
+        <button type="button" class="open-mp-menu">
+            <span class="line-mp-menu line-mp-menu1"></span>
+            <span class="line-mp-menu line-mp-menu2"></span>
+            <span class="line-mp-menu line-mp-menu3"></span>
+        </button>
+        <button type="button" class="close-mp-menu"></button>
+    </div>
+    <div class="mp-menu-b">
+        <div class="inner-mp-menu-b">
+            <ul class="list-mp-menu">
+                <li class="">
+                    <a title="About us" href="http://helicopter-view.com/about">about us.</a>
+                </li>
+                <li class="">
+                    <a title="Service" href="http://helicopter-view.com/service">service.</a>
+                </li>
+                <li class="">
+                    <a title="Our projects" href="http://helicopter-view.com/projects">our projects.</a>
+                </li>
+                <li class="">
+                    <a title="Process" href="http://helicopter-view.com/process">process.</a>
+                </li>
+                <li class="">
+                    <a title="Faq" href="http://helicopter-view.com/faq">faq.</a>
+                </li>
+                <li class="active">
+                    <a title="Blog" href="http://helicopter-view.com/blog">blog.</a>
+                </li>
+                <li class="">
+                    <a title="Contacts" href="http://helicopter-view.com/contact">contacts.</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+            <div id="loader-case">
+    <div class="inner-loader-case">
+        <div class="shell-loader">
+            <div class="logo-loader">
+                <div class="top-arc"></div>
+                <div class="bottom-arc"></div>
+                <div class="left-arrow"></div>
+                <div class="right-arrow"></div>
+                <div class="circle-logo-loader cll-large">
+                    <div class="circle-logo-loader cll-medium">
+                        <div class="circle-logo-loader cll-small"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="title-loader">
+                <span>helicopter </span>
+                <span><span>view</span><i>.</i></span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div id="content-case">
+
+                
+    <div id="singleBlog-case" class="inner-page">
+        <div class="inside-page-content">
+            <div class="single-blog-cnt">
+                <div class="desc-single-blog-cnt">
+                    <div class="centred-single-blog-cnt">
+                        <div class="top-data-single-blog">
+                            <div class="inner-single-blog date-single-blog anim-elem">
+                                <p>11 Dec, 2017</p>
+                            </div>
+                            <div class="inner-single-blog title-single-blog anim-elem">
+                                <h1>Nearest Fashion Shows in USA. Save the Date!</h1>
+                            </div>
+                            <div class="inner-single-blog image-single-blog anim-elem">
+                                <img src="/upload/images/1513010176.jpg" alt="Nearest Fashion Shows in USA. Save the Date!">
+                                <div class="inner-image-one-post-ss"></div>
+                            </div>
+                        </div>
+                        <div class="inner-single-blog desc-single-blog anim-elem">
+                            <p>The United States is one of the leading countries in the fashion design industry, along with <a href="https://en.wikipedia.org/wiki/France" title="France" target="_blank">France</a>, <a href="https://en.wikipedia.org/wiki/Italy" title="Italy"></a><a href="https://en.wikipedia.org/wiki/Italy" target="_blank">Italy</a>, the <a href="https://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom"></a><a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank">United Kingdom</a> Kingdom, <a href="https://en.wikipedia.org/wiki/Germany" title="Germany"></a><a href="https://en.wikipedia.org/wiki/Germany" target="_blank">Germany</a> and <a href="https://en.wikipedia.org/wiki/Japan" title="Japan"></a><a href="https://en.wikipedia.org/wiki/Japan" target="_blank">Japan</a>. Apart from professional business attire, American fashion is eclectic and predominantly informal.</p>
+<p><a href="https://en.wikipedia.org/wiki/New_York_City" title="New York City" target="_blank">New York City</a> and <a href="https://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles" target="_blank">Los Angeles</a> are the centers of America&rsquo;s fashion industry. They are considered leading fashion capitals. New York City is generally considered to be one of the &laquo;big four&raquo; global fashion capitals, along with <a href="https://en.wikipedia.org/wiki/Paris" title="Paris" target="_blank">Paris</a>, <a href="https://en.wikipedia.org/wiki/Milan" title="Milan" target="_blank">Milan</a> and <a href="https://en.wikipedia.org/wiki/London" title="London" target="_blank">London</a>.</p>
+<p><strong><a href="http://www.ubmfashion.com/shows/mrket" target="_blank">MRket</a> (NYC, USA, 21−23 January)</strong> is the sophisticated fashion event for discerning menswear brands and the only show in the U. S. to spotlight such a diverse and large grouping of international sections, such as Made in Italy and Brits in New York. MRket offers an elevated experience to its brands and attendees, highlighting a mix of refined tailored sportswear and accessories collections.</p>
+<p><strong><a href="http://www.ubmfashion.com/shows/projectny" target="_blank">PROJECT</a> (NYC, USA, 21−23 January)</strong> offers an intimate buying experience for the contemporary menswear market. PROJECT is the premier fashion event exhibiting men&rsquo;s advanced contemporary, premium denim, and designer collections. This expertly merchandised men&rsquo;s fashion experience allows retailers to merchandise and accessorize their menswear collections in one place, at one time.
+ </p>
+<p><strong><a href="http://www.fashionindustrygallery.com/About" target="_blank">Fashion Industry Gallery</a> (FIG) (Dallas, USA, 24−26 January)</strong> is a boutique wholesale venue, open to the fashion retail trade that showcases the best in women&rsquo;s, men&rsquo;s, and children&rsquo;s contemporary, bridge sportswear, and accessories. 
+ </p>
+<p><strong><a href="http://www.capsuleshow.com" target="_blank">(capsule)</a> Men&rsquo;s (NYC, USA, 23−25 January)</strong> is the fashion and lifestyle trade event that fuses the best high-end contemporary brands, directional independent designers and super premium street wear labels. Presenting a highly-edited assemblage of collections from around the world, (capsule) reflects the look of the new consumer and presents a fresh approach to the fashion tradeshow.
+ </p>
+<p><strong><a href="http://designersandagents.com/la_show/fall-18/" target="_blank">Designers & Agents</a> (NYC, USA, 25−27 February)</strong> is an independent, international alternative marketplace for over 1000 collections and thousands of retailers who define the cutting edge in fashion and lifestyle. Identifying emerging talent and creating an intimate, synergistic environment that fosters relationships between designers and buyers.
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/Moda-2" target="_blank">MODA</a> (NYC, USA, 25−28 February) </strong>is an upscale event providing a concise mix of modern contemporary ready-to-wear collections that showcase some of the most desired names in the industry. In a refined and elegant environment, Moda creates an inspiring place to conduct business and network, giving retailers the opportunity to discover everything from the latest trends to updated classics.
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/Fame" target="_blank">FAME</a></strong> <strong>(NYC, USA, 26−28 February)</strong> is a one-stop shopping destination where the retailers discover ready-to-wear young contemporary and trend-driven fashion for women.
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/nywomens-2/attended-showinfo" target="_blank">AccessoriesTheShow</a></strong> <strong>(NYC, USA, 26−28 February)</strong> is a vibrant collection of accessories and the go-to event to discover classic and trend-driven brands and new and emerging high-end designers. Exhibiting brands conduct business with their customers and new prospects from around the globe in a refined and upbeat environment, while giving retailers the opportunity to discover everything from the latest styles to updated classics. 
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/collective" target="_blank">THE COLLECTIVE</a> (Las Vegas, USA, 11−14 February)</strong> showcases everything from classic collections to lifestyle-driven and licensed apparel for men and young men. </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/project-womens" target="_blank">PROJECT WOMENS</a> (Las Vegas, USA, 11−14 February)</strong> gives buyers access to an unrivaled collection of the best emerging and established women&rsquo;s brands.<br></p>
+<p><strong><a href="http://www.ubmfashion.com/shows/project" target="_blank">PROJECT</a> (Las Vegas, USA, 11−14 February)</strong> offers an intimate buying experience for the contemporary menswear market. PROJECT is the premier fashion event exhibiting men&rsquo;s advanced contemporary, premium denim, and designer collections. 
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/tentslv" target="_blank">THE TENTS</a></strong> <strong>(Las Vegas, USA, 12−14 February)</strong> serves as a focused platform for the top luxury and designer, contemporary men&rsquo;s and dual-gender labels to convene for the most inspiring shopping experience in market. By bringing together the most prominent brands, retailers and press, THE TENTS creates an unmatched vision of the high-end contemporary marketplace.
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/wwdmagic" target="_blank">WWDMAGIC</a> (Las Vegas, USA, 12−14 February)</strong> brings you the largest selection of women&rsquo;s apparel and accessories in the industry. The latest women&rsquo;s and juniors' trends, the most-wanted brands and the hottest emerging designers &mdash;they're all happening on our vibrant show floor. It&rsquo;s a can&rsquo;t-miss shopping experience complete with upbeat music, undeniable beauty, and of course, style. 
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/pooltradeshow" target="_blank">POOLTRADESHOW</a> (Las Vegas, USA, 12−14 February)</strong> has been the top breeding ground for emerging fashion brands seeking retail customers for 16 years. Taking place twice a year at MAGIC Las Vegas, it&rsquo;s where buyers scout fresh new items made specifically for the boutique market. 
+ </p>
+<p><strong><a href="http://capsuleshow.com/#" target="_blank">(capsule)</a> (Las Vegas, USA, 12−14 February)</strong> is a new fashion event designed to bring the world&rsquo;s most directional independent menswear designers, super premium street wear and lifestyle brands together under one roof. Presenting a high-edited capsule of collections from around the world, (capsule) reflects the look of the new consumer and presents a fresh approach to the fashion tradeshow.
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/stitch-LV" target="_blank">STITCH</a> (Las Vegas, USA, 12−14 February)</strong> is the area for focused and refined ready-to-wear women&rsquo;s designers, with a select assortment of complimentary accessories. Its carefully merchandised floor showcases the right mix of contemporary, sportswear, lifestyle and international brands. 
+ </p>
+<p><strong><a href="http://www.agendashow.com/About/" target="_blank">Agenda</a> (Las Vegas, USA, 12−14 February)</strong> is the most diverse and creative lifestyle fashion trade show in the world. Agenda&rsquo;s portfolio now includes six shows, in three cities, expertly curated with over 1000 brands and a recurring brand-building conference. Buyers, brands, investors, distributors, and media hail from around the globe, gathering at Agenda to build partnerships, participate in the community, and grow their businesses.
+ </p>
+<p><strong><a href="http://www.ubmfashion.com/shows/coterie" target="_blank">Coterie</a> (NYC, USA, 26−28 February)</strong> is the premier global event that connects women&rsquo;s apparel, accessories, and footwear designers with the international 'who's who' of retailers. Coterie builds exclusive shopping experiences from the ground up so that brands and buyers can create synergies that fuel their businesses.
+ </p>
+<p>Other fashion events: <a href="http://helicopter-view.com/blog/top-bridal-fashion-shows" target="_blank">Top Bridal Fashion Shows</a>, <a href="http://helicopter-view.com/blog/top-specialized-lingerie-trade-shows" target="_blank">Top Specialized Lingerie Trade Shows</a>, <a href="http://helicopter-view.com/blog/a-calendar-of-italian-fashion-weeks-events-and-trade-fairs" target="_blank">A Calendar of Italian Fashion Weeks, Events and Trade Fairs</a>, <a href="http://helicopter-view.com/blog/2018-fashion-calendar-in-nbsp-uk" target="_blank">2018 Fashion Calendar in UK</a>, <a href="http://helicopter-view.com/blog/the-key-fashion-events-in-spain" target="_blank">The Key Fashion Events in Spain</a>, <a href="http://helicopter-view.com/blog/a-calendar-of-fashion-weeks-events-and-trade-fairs-in-germany" target="_blank">A Calendar of Fashion Weeks, Events and Trade Fairs in Germany</a>, <a href="http://helicopter-view.com/blog/nearest-fashion-shows-in-paris" target="_blank">Nearest Fashion Shows in Paris</a></p>
+<p>More information about other 2018 trade fairs: <a href="http://helicopter-view.com/blog/top-drink-beverage-trade-shows-around-the-world" target="_blank">Top Drink & Beverage Trade Shows around the World</a>, <a href="http://helicopter-view.com/blog/top-international-footwear-trade-shows">Top International Footwear Trade Shows</a>, <a href="http://helicopter-view.com/blog/top-international-children-and-maternity-trade-shows" target="_blank">Top International Children and Maternity Trade Shows</a>, <a href="http://helicopter-view.com/blog/the-best-gem-and-jewelry-trade-shows" target="_blank">The Best Gem and Jewelry Trade Shows</a>, <a href="http://helicopter-view.com/blog/biggest-international-boat-yacht-shows" target="_blank">Biggest International Boat & Yacht Shows</a>, <a href="http://helicopter-view.com/blog/must-visit-in-2018-international-cosmetic-shows" target="_blank">Must-Visit in 2018 International Cosmetic Shows</a>, <a href="http://helicopter-view.com/blog/top-international-golf-trade-shows" target="_blank">Top International Golf Trade Shows</a>, <a href="http://helicopter-view.com/blog/top-international-sport-and-wellness-trade-shows-to-attend-in-2018" target="_blank">Top International Sport and Wellness Trade Shows to Attend in 2018</a></p>
+<p>Read more about luxury: <a href="http://helicopter-view.com/public/blog/luxury-goods-worldwide-market-trends">Luxury Goods Worldwide Market Trends</a>, <a href="http://helicopter-view.com/blog/world-of-luxury">World of Luxury</a>, <a href="http://helicopter-view.com/blog/key-forces-shaping-the-luxury-market">Key Forces Shaping the Luxury Market</a></p>
+<p><br></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tags-single-blog-cnt">
+                    <div class="centred-tags-single-blog">
+                                                <div class="inner-tags-sb tags-sb-cnt anim-elem">
+                            <div class="tags-title-sb">Tags:</div>
+                            <div class="list-links-tags-sb">
+                                                                    <a href="http://helicopter-view.com/blog/tag/tips" title="Tips">Tips</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/world" title="World">World</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/apparel" title="Apparel">Apparel</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/luxury" title="Luxury">Luxury</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/2018" title="2018">2018</a>
+                                                                    <a href="http://helicopter-view.com/blog/tag/exhibition" title="Exhibition">Exhibition</a>
+                                                            </div>
+                        </div>
+                                                <div class="inner-tags-sb links-sb-cnt a2a_kit a2a_kit_size_32 a2a_default_style anim-elem">
+                            <a title="Share in Facebook" class="share-singleBlog share-fb a2a_button_facebook"></a>
+                            <a title="Share in Twitter" class="share-singleBlog share-tw a2a_button_twitter"></a>
+                            <a title="Share in Pinterest" class="share-singleBlog share-pt a2a_button_pinterest"></a>
+                            <a title="Share in Google+" class="share-singleBlog share-gp a2a_button_google_plus"></a>
+                            <a title="Share in LinkedIn" class="share-singleBlog share-ln a2a_button_linkedin"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="last-single-blog-cnt">
+                                                                        <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515595162.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>10 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog">Retail Sector Faces ‘Fight to Survive&#039; in 2018</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>Lacklustre consumer spending will particularly hurt the sector, as a result of disposable incomes being squeezed by a jump in inflation coupled with stagnant wage growth...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/retail-sector-faces-fight-to-survive-in-2018" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="one-post-blog-ip anim-elem">
+                                <div class="centred-blog-content-ip">
+                                    <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="image-one-post-ss image-one-post-blog">
+                                        <img src="/upload/images/preview_1515155550.jpg" alt="blog picture">
+                                        <div class="inner-image-one-post-ss"></div>
+                                    </a>
+                                    <div class="info-one-post-blog">
+                                        <div class="inner-one-post-blog date-one-post-blog">
+                                            <p>05 Jan, 2018</p>
+                                        </div>
+                                        <div class="inner-one-post-blog title-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog">Last Year M&amp;A Review and New Year Outlook</a>
+                                        </div>
+                                        <div class="inner-one-post-blog desc-one-post-blog">
+                                            <p>For most of 2017, the M&amp;A picture was mixed: In the US, buyers continued acting on historically low borrowing costs and a strengthening economy. Parts of Europe and Asia drove inbound and outbound investment...</p>
+                                        </div>
+                                        <div class="inner-one-post-blog link-to-one-post-blog">
+                                            <a href="http://helicopter-view.com/blog/last-year-m-a-review-and-new-year-outlook" title="Read the blog" class="link-screen">
+                                                <div class="inner-read-more">
+                                                    <span>read more</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                            </div>
+            </div>
+            <span class="circle-gray-b-sbp anim-elem"></span>
+            <span class="circle-gray-m-sbp anim-elem"></span>
+        </div>
+    </div>
+
+
+                <div class="dashed-lines-gb">
+    <div class="one-line-gb one-line-gb1"></div>
+    <div class="one-line-gb one-line-gb2"></div>
+    <div class="one-line-gb one-line-gb3"></div>
+    <div class="one-line-gb one-line-gb4"></div>
+</div>
+                <div id="footer">
+    <div class="info-footer">
+        <p>
+            &copy; 2018. helicopter view. All rights reserved. Design and development – <a href="http://sponge.com.ua" title="Sponge D&amp;D" target="_blank">Sponge D&amp;D</a>.
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9CtYsSqfZJbLrHZVfclOnXoBfVEH4yXc"></script>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <script src="/js/common.min.js" defer></script>
+        <script src="/js/build.min.js" defer></script>
+        
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-106831046-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>
